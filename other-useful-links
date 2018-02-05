@@ -1,0 +1,48 @@
+Python Geo Location using Google API calls
+
+https://github.com/bshillingford/wifi-locate
+
+https://github.com/initbrain/Python-Wi-Fi-Positioning-System
+
+
+Kaggle Geo location visualisation
+https://www.kaggle.com/beyondbeneath/geolocation-visualisations
+
+CartoDb
+https://abhinavkashyap92.carto.com/viz/388cdbd0-4b10-11e6-bfb9-0e05a8b3e3d7/public_map
+
+Project no. 1.
+https://www.kaggle.com/beyondbeneath/geolocation-visualisations
+Visualising Geolocation history
+
+
+Project no. 2
+Classifying smartphones
+https://www.kaggle.com/dvasyukova/brand-and-model-based-benchmarks
+
+https://www.kaggle.com/dvasyukova/the-locations-puzzle?scriptVersionId=236052
+
+Project no. 3
+Wi Fi hotspots and their history 
+
+https://www.kaggle.com/residentmario/public-wifi-distribution-clustering
+
+https://www.kaggle.com/octaviog/distribution-and-density-of-wifi-aps-in-bsas
+Fields: - WKT: Geolocation coordinates. Type: text. - ID: Unique identifier. Type: numeric - NOMBRE: Name of the AP. Type: text. - TIPO: Category of location (e.g. museum, subway, etc). Type: text. - ETAPA: Stage of inauguration of the AP. Type: text - ETAPA_OBSE: Stage of secondary observations. Type: date. - ESTADO: Availability. Type: text. - CALLE: Main street. Type: text. - ALTURA: Number on main street. Type: numeric - CALLE2: Intersection street. Type: text. - DIRECCION: Address in one line. Type: text. - OBSERVACIO: Observations. Type: text. - OBSERVA_01: Private observations. Type: text. - PUBLICABLE: Publishable. Type: numeric. - VERIFICADO : Verified. Type: numeric. - DISTRITO: District of location. Type: text.
+
+
+
+https://www.kaggle.com/c/talkingdata-mobile-user-demographics/kernels
+
+        Here is the following list of possible projects with different aspects of the provided dataset and based on that a feasible project idea can be chosen/created. please review it:
+
+1. https://github.com/turian/query-classification-with-word-representations
+2. https://github.com/hodzanassredin/NFastText
+3. https://github.com/Lausanne-ML-Meetup/ML-for-text-with-fasttext
+4. https://github.com/pabitralenka/Customer-Feedback-Analysis
+5. https://github.com/uladkasach/Word-Subject-Classification 
+6. https://github.com/chirags27/Machine-Learning--Gender-Classification
+7. https://github.com/kellywzhang/proper-noun-classification
+
+And, here is fasttext and word2vec comparison link:
+https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/ 

@@ -1,0 +1,189 @@
+drug	1
+drug	12356ghfhhfudhgjbb`
+drug	6ogjlqlnsljnjhsogjlqlsujushlu
+drug	777vri
+drug	841815
+drug	AJ-FreeWiFi
+drug	Anay`
+drug	B3-404
+drug	B914-TUk1
+drug	black`apple
+drug	CA-santoshkumardevri
+drug	CHHABRA-WiFi
+drug	D-Link
+drug	!dw$_Tb_o@&
+drug	ejukxfujimx-a2adp
+drug	ElixirST
+drug	Elixirst1
+drug	GoogleGuest-Legacy
+drug	GoogleGuestPSK
+drug	goyttfjz
+drug	GUESTWIFI
+drug	GW_IPC_3944417
+person	HOTAL`NEELAM`1ST
+person	isha
+person	JioFi2_AAB718
+person	kdmxgwmlgmq-a2adp
+person	kgbbn`hg
+person	kgkjhnfjbax-a2adp
+person	kngoiruxezx-a2adp
+person	linksys
+person	mibilenet
+person	mobilenet
+person	Mukesh`Jaggia
+person	NOIDAWR
+person	OLA`WIFI`1
+person	pragyan
+person	prashant1
+person	railware
+person	raj`krishna
+person	SDRMN
+person	sentinal
+person	sentinel
+person	Tanay
+person	Tanay1
+person	Tata`Docomo`Wi-Fi
+person	Tenda_0407D8
+person	The`Grand`Blossom`16A-5G
+person	TIGERSDEN
+person	TP-LINK_3166
+person	TP-LINK_DFF8
+person	velocity
+person	WiPG-0
+person	Xylem-Delhi
+person	Xylem-Noida
+person	Athene
+person	Atle Selberg
+person	August Blanche
+person	Barakah
+person	Barbara Welther
+person	Baruj Benacerraf
+person	Ben Kingsley
+person	Benedict I
+person	Benjamin Banneker
+person	Benjamin Waterhouse Hawkins
+person	Benoit Mandelbrot
+person	Bernt Holmboe
+person	Betty Williams
+person	Bill Pullman
+person	Bill Wilson
+person	Billy Graham
+person	Billy Hamilton
+person	Blaise Pascal
+person	Blessed Innocent XI
+person	Bob Dylan
+person	Bob Gibson
+person	Bob Haggart
+person	Boniface II
+person	Bonnie J. Dunbar
+person	Boris Delone
+person	Branwell Brontë
+person	Bruce Willis
+person	Bud Freeman
+person	Buffon
+person	C de la Vallée Poussin
+person	C. Mathewson
+person	Cal Ripken, Jr.
+person	Caleb Carr
+person	Campanus of Novara
+person	Candice Bergen
+person	Carl Ferdinand Cori
+person	Carl Gustaf Verner Von Heidenstam
+person	Caroline Chisholm
+person	Carroll J. Guillory
+person	Catfish Hunter
+person	Celestine II
+person	Celestine IV
+person	Charles Brianchon
+person	Charles Delaunay
+person	Charles Dodgson
+person	Charles E. Brady, Jr.
+person	Charles Jagger
+person	Charles Louis Alphonse Laveran
+person	Charles Pears
+person	Charles Reyneau
+person	Charlie Chaplin
+person	Charlotte Scott
+person	Cher
+person	Chester W. Nimitz
+person	Chevy Chase
+person	Christina Ricci
+person	Christopher Clavius
+person	Christopher Marlowe
+person	Claude Debussy
+person	Claude Dechales
+person	Clement III
+person	Cleopatra VII
+person	Clouet
+person	Colonel Mary A. Hallaren
+person	Conon
+person	D'alembert
+person	Daniel M. Tani
+person	David Bomberg
+person	David H. Hubel
+person	David Lloyd George
+person	David R. Williams
+person	David Spade
+person	Deepak Chopra
+person	Democritus of Abdera
+person	Dianne Feinstein
+person	Dickinson W. Richards
+person	Dimitri Egorov
+person	Dirk Bouts
+person	Don Carlos Buell
+person	Dr. Dean Ornish
+person	Earl of Aberdeen
+person	Eddie Arcaro
+person	Eddie Plank
+person	Edmund Kirby Smith
+person	Edouard Manet
+person	Edward Drinker Cope
+person	Edward I
+person	Edward III
+person	Edward Ory
+person	Edward V
+person	Edwin G. Krebs
+person	Elias Canetti
+person	Elie Wiesel
+person	Elisabeth Kuber Ross
+person	Elizabeth Virginia Wallace Truman
+person	Ellen S. Baker
+person	Elton John
+person	Emmy Noether
+person	Empedocles
+person	Eric F. Wieschaus
+person	Eric Heiden
+person	Erich Hecke
+person	Erik Zeeman
+person	Erland Bring
+person	Ernest Miller Hemingway
+person	Ernie Lombardi
+person	Erwin Freundlich
+person	Estee Lauder
+person	Etienne Pascal
+person	F. E. Sillanpää
+person	Florence Sabin
+person	Francesco Cantelli
+person	Francis Galton
+person	Francois Tisserand
+person	Frank McCourt
+person	Fred W. Haise
+person	Frederick Soddy
+person	Friedrich Schottky
+person	Frédéric Bazille
+person	G F Bernhard Riemann
+person	G N Watson
+person	G de Roberval Personne
+person	G. David Low
+person	Gabriel Koenigs
+person	Gabriela Mistral
+person	Galahad
+person	Genevieve M. Knight
+person	Georg Scheffers
+person	George Atwood
+person	George Bernard Shaw
+person	George Canning
+person	George Darwin
+person	George Foster
+person	George Washington
+person	Georges Comte de Buffon

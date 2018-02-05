@@ -1,0 +1,2862 @@
+Example: A-200 Shampoo Concentrate guess= drug  gold= confidence=10
+Example: Acet-2 guess= drug  gold= confidence=10
+Example: Actifed Cold & Sinus Caplets 26 guess= drug  gold= confidence=10
+Example: Actigall guess= drug  gold= confidence=10
+Example: Actisite guess= drug  gold= confidence=10
+Example: Activase guess= drug  gold= confidence=10
+Example: Adriamycin RDF guess= drug  gold= confidence=10
+Example: Advil guess= drug  gold= confidence=10
+Example: AeroBid-M guess= drug  gold= confidence=10
+Example: Aeroseb-HC guess= drug  gold= confidence=10
+Example: Ak-Taine guess= drug  gold= confidence=10
+Example: Akne-Mycin guess= drug  gold= confidence=10
+Example: Albert Docusate 44 guess= drug  gold= confidence=10
+Example: Albert Glyburide guess= drug  gold= confidence=10
+Example: Alesse guess= drug  gold= confidence=10
+Example: Alkets 18 guess= drug  gold= confidence=10
+Example: Allay guess= drug  gold= confidence=10
+Example: Allegra guess= drug  gold= confidence=10
+Example: Allerest Maximum Strength 15 guess= drug  gold= confidence=10
+Example: Alramucil Regular guess= drug  gold= confidence=10
+Example: Alti-Triazolam 18 guess= drug  gold= confidence=10
+Example: Aludrox guess= drug  gold= confidence=10
+Example: Amcort guess= drug  gold= confidence=10
+Example: Amgenal Cough guess= drug  gold= confidence=10
+Example: Amilon guess= drug  gold= confidence=10
+Example: AMMONIATED MERCURY guess= drug  gold= confidence=10
+Example: Anaprox 13 guess= drug  gold= confidence=10
+Example: Anbesol Regular Strength Liquid guess= drug  gold= confidence=10
+Example: Ancotil guess= drug  gold= confidence=10
+Example: Andronate 100 guess= drug  gold= confidence=10
+Example: Antacid Liquid guess= drug  gold= confidence=10
+Example: Antacid Liquid Double Strength guess= drug  gold= confidence=10
+Example: ANTIVENIN guess= drug  gold= confidence=10
+Example: APD guess= drug  gold= confidence=10
+Example: Aphrodyne guess= drug  gold= confidence=10
+Example: Aphthasol guess= drug  gold= confidence=10
+Example: Apo-Alpraz guess= drug  gold= confidence=10
+Example: Apo-Bisacodyl 26 guess= drug  gold= confidence=10
+Example: Apo-Cephalex 19 guess= drug  gold= confidence=10
+Example: Apo-Clonazepam guess= drug  gold= confidence=10
+Example: Apo-Dimenhydrinate guess= drug  gold= confidence=10
+Example: Apo-Dipyridamole SC guess= drug  gold= confidence=10
+Example: Apo-Gain guess= drug  gold= confidence=10
+Example: Apo-Indomethacin guess= drug  gold= confidence=10
+Example: Apo-Levocarb guess= drug  gold= confidence=10
+Example: Apo-Metformin guess= drug  gold= confidence=10
+Example: Apo-Terfenadine 15 guess= drug  gold= confidence=10
+Example: Apo-Thioridazine 11 guess= drug  gold= confidence=10
+Example: Aprodrine 28 guess= drug  gold= confidence=10
+Example: Aquasol A guess= drug  gold= confidence=10
+Example: Aristocort D 18 guess= drug  gold= confidence=10
+Example: Arthrisin guess= drug  gold= confidence=10
+Example: Arthritis Pain Ascriptin guess= drug  gold= confidence=10
+Example: Arthritis Strength Bufferin guess= drug  gold= confidence=10
+Example: Arthrotec 75 guess= drug  gold= confidence=10
+Example: Aspir-Low guess= drug  gold= confidence=10
+Example: Aspirin Plus Stomach Guard Extra Strength guess= drug  gold= confidence=10
+Example: Aspirin Regimen Bayer Regular Strength Caplets guess= drug  gold= confidence=10
+Example: Aspirtab guess= drug  gold= confidence=10
+Example: Astracaine 4% Forte guess= drug  gold= confidence=10
+Example: Atrohist Plus guess= drug  gold= confidence=10
+Example: Bain de Soleil All Day Sunfilter 31 guess= drug  gold= confidence=10
+Example: Bain de Soleil Long Lasting Sport Sunblock 31 guess= drug  gold= confidence=10
+Example: Bain de Soleil Mega Tan 26 guess= drug  gold= confidence=10
+Example: Bancap-HC guess= drug  gold= confidence=10
+Example: Banophen 10 guess= drug  gold= confidence=10
+Example: Barbita guess= drug  gold= confidence=10
+Example: Barriere-HC guess= drug  gold= confidence=10
+Example: BCNU guess= drug  gold= confidence=10
+Example: Beben guess= drug  gold= confidence=10
+Example: Because guess= drug  gold= confidence=10
+Example: Benadryl Allergy 10 guess= drug  gold= confidence=10
+Example: Benadryl Allergy/Cold 18 guess= drug  gold= confidence=10
+Example: Benylin 4 Flu 136 guess= drug  gold= confidence=10
+Example: Benzacot guess= drug  gold= confidence=10
+Example: Benzfetamine guess= drug  gold= confidence=10
+Example: Beta-HC guess= drug  gold= confidence=10
+Example: Betaloc Durules guess= drug  gold= confidence=10
+Example: Betnesol guess= drug  gold= confidence=10
+Example: BIAVAX II guess= drug  gold= confidence=10
+Example: Bisacolax 26 guess= drug  gold= confidence=10
+Example: Blistex Medicated Lip Conditioner with Sunscreen 24 guess= drug  gold= confidence=10
+Example: Blocadren 14 guess= drug  gold= confidence=10
+Example: Bontril Slow-Release guess= drug  gold= confidence=10
+Example: Botox guess= drug  gold= confidence=10
+Example: Brethine guess= drug  gold= confidence=10
+Example: Brevoxyl-4 Cleansing Lotion guess= drug  gold= confidence=10
+Example: Brevoxyl-4 Gel guess= drug  gold= confidence=10
+Example: Bromadrine PD guess= drug  gold= confidence=10
+Example: Bromfenex guess= drug  gold= confidence=10
+Example: Bromo-Seltzer guess= drug  gold= confidence=10
+Example: Bronalide guess= drug  gold= confidence=10
+Example: Broncomar GG guess= drug  gold= confidence=10
+Example: Brotane DX Cough 22 guess= drug  gold= confidence=10
+Example: Bucet guess= drug  gold= confidence=10
+Example: Bufferin Caplets guess= drug  gold= confidence=10
+Example: Buphenyl guess= drug  gold= confidence=10
+Example: Butibel guess= drug  gold= confidence=10
+Example: Cafertine guess= drug  gold= confidence=10
+Example: Caffedrine Caplets guess= drug  gold= confidence=10
+Example: Calamox guess= drug  gold= confidence=10
+Example: Calciday 667 guess= drug  gold= confidence=10
+Example: Calglycine 18 guess= drug  gold= confidence=10
+Example: Calmine guess= drug  gold= confidence=10
+Example: Calmylin #1 guess= drug  gold= confidence=10
+Example: Calmylin Original with Codeine 12 guess= drug  gold= confidence=10
+Example: Camptosar guess= drug  gold= confidence=10
+Example: Canesten 3-Day Therapy guess= drug  gold= confidence=10
+Example: Catrix Lip Saver 41 guess= drug  gold= confidence=10
+Example: Caverject guess= drug  gold= confidence=10
+Example: Cee-500 guess= drug  gold= confidence=10
+Example: Ceftin 18 guess= drug  gold= confidence=10
+Example: Cefzil 13 guess= drug  gold= confidence=10
+Example: Celestoderm-V guess= drug  gold= confidence=10
+Example: Ceo-Two guess= drug  gold= confidence=10
+Example: Children's Formula Cough 109 guess= drug  gold= confidence=10
+Example: Chlor-Trimeton Allergy-D 12 Hour 15 guess= drug  gold= confidence=10
+Example: Chlor-Tripolon N.D. 21 guess= drug  gold= confidence=10
+Example: Chlorgest-HD 26 guess= drug  gold= confidence=10
+Example: Chloromag guess= drug  gold= confidence=10
+Example: Chlortox 13 guess= drug  gold= confidence=10
+Example: Chooz 18 guess= drug  gold= confidence=10
+Example: Cidomycin guess= drug  gold= confidence=10
+Example: Cillium guess= drug  gold= confidence=10
+Example: Citro-Mag guess= drug  gold= confidence=10
+Example: Citro-Mag 14 guess= drug  gold= confidence=10
+Example: Citrocarbonate guess= drug  gold= confidence=10
+Example: Clear by Design Medicated Cleansing Pads guess= drug  gold= confidence=10
+Example: Clearasil Double Textured Pads Regular Strength guess= drug  gold= confidence=10
+Example: Clearasil Maximum Strength Medicated Anti-Acne 10 Vanishing Cream guess= drug  gold= confidence=10
+Example: Clearasil Maximum Strength Medicated Anti-Acne 10 Vanishing Lotion guess= drug  gold= confidence=10
+Example: Cleocin T Topical Solution guess= drug  gold= confidence=10
+Example: Clinagen LA 40 guess= drug  gold= confidence=10
+Example: CMT guess= drug  gold= confidence=10
+Example: Co-codaprin guess= drug  gold= confidence=10
+Example: Co-Complex DM Caplets 124 guess= drug  gold= confidence=10
+Example: Codehist DH 32 guess= drug  gold= confidence=10
+Example: Codimal DM 46 guess= drug  gold= confidence=10
+Example: Cogentin guess= drug  gold= confidence=10
+Example: Cold & Cough Medicine TheraFlu Maximum Strength Non-Drowsy Formula Flu124 guess= drug  gold= confidence=10
+Example: Colestid guess= drug  gold= confidence=10
+Example: Colyte guess= drug  gold= confidence=10
+Example: Comtrex Allergy-Sinus Caplets 13 guess= drug  gold= confidence=10
+Example: Comtrex Daytime Caplets 124 guess= drug  gold= confidence=10
+Example: Concentrin 132 guess= drug  gold= confidence=10
+Example: Constulose 13 guess= drug  gold= confidence=10
+Example: Contac Cold/Flu Day Caplets 124 guess= drug  gold= confidence=10
+Example: Coppertone Sport Ultra Sweatproof 41 guess= drug  gold= confidence=10
+Example: Correctol 26 guess= drug  gold= confidence=10
+Example: Cort-Dome guess= drug  gold= confidence=10
+Example: Cortastat guess= drug  gold= confidence=10
+Example: Cortisol guess= drug  gold= confidence=10
+Example: Cortone Acetate guess= drug  gold= confidence=10
+Example: CoSudafed 120 guess= drug  gold= confidence=10
+Example: Cutar Water Dispersible Emollient Tar guess= drug  gold= confidence=10
+Example: Cytovene guess= drug  gold= confidence=10
+Example: D-S-S 44 guess= drug  gold= confidence=10
+Example: D.O.S. Softgels 44 guess= drug  gold= confidence=10
+Example: Dalacin C Phosphate guess= drug  gold= confidence=10
+Example: Dalacin T Topical Solution guess= drug  gold= confidence=10
+Example: Dalmane guess= drug  gold= confidence=10
+Example: Danocrine guess= drug  gold= confidence=10
+Example: Dapacin Cold guess= drug  gold= confidence=10
+Example: Daraprim guess= drug  gold= confidence=10
+Example: DDAVP Nasal Spray guess= drug  gold= confidence=10
+Example: Deconhist guess= drug  gold= confidence=10
+Example: Demi-Regroton guess= drug  gold= confidence=10
+Example: Depacon guess= drug  gold= confidence=10
+Example: DermaZinc Cream guess= drug  gold= confidence=10
+Example: Dermoxyl 20 Gel guess= drug  gold= confidence=10
+Example: Desenex Antifungal Liquid guess= drug  gold= confidence=10
+Example: Desenex Antifungal Penetrating Foam guess= drug  gold= confidence=10
+Example: Desenex Powder guess= drug  gold= confidence=10
+Example: Desferal guess= drug  gold= confidence=10
+Example: Desquam-E 10 Gel guess= drug  gold= confidence=10
+Example: Desquam-X 5 Gel guess= drug  gold= confidence=10
+Example: Dexafed Cough 126 guess= drug  gold= confidence=10
+Example: Dexamethasone Intensol guess= drug  gold= confidence=10
+Example: DHS Tar Shampoo guess= drug  gold= confidence=10
+Example: Di-Sosul Forte 38 guess= drug  gold= confidence=10
+Example: DiabetiSource guess= drug  gold= confidence=10
+Example: Dialose 44 guess= drug  gold= confidence=10
+Example: Dialose Plus 42 guess= drug  gold= confidence=10
+Example: Diarrest guess= drug  gold= confidence=10
+Example: Dilocaine guess= drug  gold= confidence=10
+Example: Dimetane-DC Cough 20 guess= drug  gold= confidence=10
+Example: Dimetapp Chewables guess= drug  gold= confidence=10
+Example: Dimetapp Cold & Fever Suspension guess= drug  gold= confidence=10
+Example: Dimetapp DM 21 guess= drug  gold= confidence=10
+Example: Diocto 44 guess= drug  gold= confidence=10
+Example: Dioeze 44 guess= drug  gold= confidence=10
+Example: Disobrom 19 guess= drug  gold= confidence=10
+Example: Doak Oil Forte Therapeutic Bath Treatment guess= drug  gold= confidence=10
+Example: Doak Oil Therapeutic Bath Treatment For All-Over Body Care guess= drug  gold= confidence=10
+Example: Dodd's Pills guess= drug  gold= confidence=10
+Example: Dolagesic guess= drug  gold= confidence=10
+Example: Dolgesic guess= drug  gold= confidence=10
+Example: Dorcol Children's Cough 132 guess= drug  gold= confidence=10
+Example: Dormarex 2 10 guess= drug  gold= confidence=10
+Example: Dosaflex 35 guess= drug  gold= confidence=10
+Example: Dostinex guess= drug  gold= confidence=10
+Example: Dristan Long Lasting Nasal Mist guess= drug  gold= confidence=10
+Example: Drixoral Nasal Decongestant guess= drug  gold= confidence=10
+Example: DTIC-Dome guess= drug  gold= confidence=10
+Example: Duoplant Topical Solution guess= drug  gold= confidence=10
+Example: Duosol 44 guess= drug  gold= confidence=10
+Example: Dura-Vent 141 guess= drug  gold= confidence=10
+Example: Duralone-80 guess= drug  gold= confidence=10
+Example: Duration 12 Hour Nasal Spray guess= drug  gold= confidence=10
+Example: Dycill guess= drug  gold= confidence=10
+Example: E-400 I.U. in a Water Soluble Base guess= drug  gold= confidence=10
+Example: Easprin guess= drug  gold= confidence=10
+Example: Ecostatin Vaginal Ovules guess= drug  gold= confidence=10
+Example: Ectosone Scalp Lotion guess= drug  gold= confidence=10
+Example: Ed A-Hist 10 guess= drug  gold= confidence=10
+Example: ED-SPAZ guess= drug  gold= confidence=10
+Example: Effer-K guess= drug  gold= confidence=10
+Example: Eflone guess= drug  gold= confidence=10
+Example: Empirin with Codeine No.3 guess= drug  gold= confidence=10
+Example: Enduronyl Forte guess= drug  gold= confidence=10
+Example: Enfamil Human Milk Fortifier guess= drug  gold= confidence=10
+Example: Ensure Plus guess= drug  gold= confidence=10
+Example: Ensure Plus HN guess= drug  gold= confidence=10
+Example: Entex Liquid 140 guess= drug  gold= confidence=10
+Example: Entrophen 15 Maximum Strength Tablets guess= drug  gold= confidence=10
+Example: Epival guess= drug  gold= confidence=10
+Example: ERYC-250 guess= drug  gold= confidence=10
+Example: Ethyl aminobenzoate guess= drug  gold= confidence=10
+Example: Etrafon-F guess= drug  gold= confidence=10
+Example: Eurax Lotion guess= drug  gold= confidence=10
+Example: Evac-U-Gen 33 guess= drug  gold= confidence=10
+Example: Ex-Lax Maximum Relief Formula 33 guess= drug  gold= confidence=10
+Example: Excedrin Migraine guess= drug  gold= confidence=10
+Example: Exgest LA 141 guess= drug  gold= confidence=10
+Example: EZE-DS guess= drug  gold= confidence=10
+Example: Famvir guess= drug  gold= confidence=10
+Example: Fansidar guess= drug  gold= confidence=10
+Example: Felbatol guess= drug  gold= confidence=10
+Example: Feldene 16 guess= drug  gold= confidence=10
+Example: Femcet guess= drug  gold= confidence=10
+Example: Ferospace guess= drug  gold= confidence=10
+Example: Fertinex guess= drug  gold= confidence=10
+Example: Fibercon Caplets guess= drug  gold= confidence=10
+Example: Flagyl guess= drug  gold= confidence=10
+Example: Fleet Laxative 26 guess= drug  gold= confidence=10
+Example: Flonase guess= drug  gold= confidence=10
+Example: Florone guess= drug  gold= confidence=10
+Example: Flovent guess= drug  gold= confidence=10
+Example: Fluocin 10 guess= drug  gold= confidence=10
+Example: FluShield guess= drug  gold= confidence=10
+Example: FML Liquifilm guess= drug  gold= confidence=10
+Example: Furamide guess= drug  gold= confidence=10
+Example: Gammar-P IV guess= drug  gold= confidence=10
+Example: Gas-X Extra Strength guess= drug  gold= confidence=10
+Example: Gee-Gee guess= drug  gold= confidence=10
+Example: Gen-Allerate guess= drug  gold= confidence=10
+Example: Gen-Clonazepam guess= drug  gold= confidence=10
+Example: Gen-Cromoglycate guess= drug  gold= confidence=10
+Example: Genatuss DM 109 guess= drug  gold= confidence=10
+Example: Genoptic Liquifilm guess= drug  gold= confidence=10
+Example: Genora 0.5/35 guess= drug  gold= confidence=10
+Example: Genpril Caplets guess= drug  gold= confidence=10
+Example: Gentle Laxative 26 guess= drug  gold= confidence=10
+Example: Glaucon guess= drug  gold= confidence=10
+Example: Glucotrol guess= drug  gold= confidence=10
+Example: Glycon guess= drug  gold= confidence=10
+Example: Glydeine Cough 106 guess= drug  gold= confidence=10
+Example: Gravol I/V guess= drug  gold= confidence=10
+Example: Guaifed 142 guess= drug  gold= confidence=10
+Example: Guaifenex PPA 75 141 guess= drug  gold= confidence=10
+Example: Gyne-Lotrimin guess= drug  gold= confidence=10
+Example: GyneCure Vaginal Ovules Tandempak guess= drug  gold= confidence=10
+Example: Gynol II Extra Strength Contraceptive Jelly guess= drug  gold= confidence=10
+Example: Halog-E 13 guess= drug  gold= confidence=10
+Example: Halotussin-DM 109 guess= drug  gold= confidence=10
+Example: Haltran guess= drug  gold= confidence=10
+Example: Hawaiian Tropic Land Sport 33 guess= drug  gold= confidence=10
+Example: Hawaiian Tropic Sport Sunblock 28 29 guess= drug  gold= confidence=10
+Example: Headache Tablet guess= drug  gold= confidence=10
+Example: Healthprin Adult Low Strength guess= drug  gold= confidence=10
+Example: Hemocyte guess= drug  gold= confidence=10
+Example: Hexadrol guess= drug  gold= confidence=10
+Example: Hi-Cor 1.0 guess= drug  gold= confidence=10
+Example: Hista-Vadrin 11 guess= drug  gold= confidence=10
+Example: Humate-P guess= drug  gold= confidence=10
+Example: Humatrope guess= drug  gold= confidence=10
+Example: Humulin R guess= drug  gold= confidence=10
+Example: Humulin-N guess= drug  gold= confidence=10
+Example: Hydergine LC guess= drug  gold= confidence=10
+Example: Hydro-chlor guess= drug  gold= confidence=10
+Example: Hydrocodone with APAP guess= drug  gold= confidence=10
+Example: Hydromox guess= drug  gold= confidence=10
+Example: Hydropres guess= drug  gold= confidence=10
+Example: Hyzine-50 12 guess= drug  gold= confidence=10
+Example: Ibu-200 guess= drug  gold= confidence=10
+Example: Idamycin guess= drug  gold= confidence=10
+Example: IGIV guess= drug  gold= confidence=10
+Example: Inapsine guess= drug  gold= confidence=10
+Example: Indocin SR guess= drug  gold= confidence=10
+Example: Introlite guess= drug  gold= confidence=10
+Example: Intron A guess= drug  gold= confidence=10
+Example: Ipol guess= drug  gold= confidence=10
+Example: Isobutyl guess= drug  gold= confidence=10
+Example: Isocaine guess= drug  gold= confidence=10
+Example: Isocaine 2% guess= drug  gold= confidence=10
+Example: Isocal guess= drug  gold= confidence=10
+Example: Isopap guess= drug  gold= confidence=10
+Example: K+ Care ET guess= drug  gold= confidence=10
+Example: Kadian guess= drug  gold= confidence=10
+Example: Kato guess= drug  gold= confidence=10
+Example: Kefzol guess= drug  gold= confidence=10
+Example: Kenalog-10 guess= drug  gold= confidence=10
+Example: Key-Pred SP guess= drug  gold= confidence=10
+Example: Klean-Prep guess= drug  gold= confidence=10
+Example: Klotrix guess= drug  gold= confidence=10
+Example: Kwelcof Liquid 112 guess= drug  gold= confidence=10
+Example: L-Caine guess= drug  gold= confidence=10
+Example: L-PAM guess= drug  gold= confidence=10
+Example: Lacril guess= drug  gold= confidence=10
+Example: Lacrisert guess= drug  gold= confidence=10
+Example: LAM guess= drug  gold= confidence=10
+Example: Lanophyllin guess= drug  gold= confidence=10
+Example: Lanoxin guess= drug  gold= confidence=10
+Example: Largactil Liquid guess= drug  gold= confidence=10
+Example: Levbid guess= drug  gold= confidence=10
+Example: Levsinex Timecaps guess= drug  gold= confidence=10
+Example: Lidoxide guess= drug  gold= confidence=10
+Example: Lioresal Intrathecal guess= drug  gold= confidence=10
+Example: Liquaemin guess= drug  gold= confidence=10
+Example: Liqui-Char guess= drug  gold= confidence=10
+Example: Liquid-Cal guess= drug  gold= confidence=10
+Example: Lithotabs guess= drug  gold= confidence=10
+Example: Lodine guess= drug  gold= confidence=10
+Example: Lorcet-HD guess= drug  gold= confidence=10
+Example: Lotrimin AF Cream guess= drug  gold= confidence=10
+Example: Lovenox guess= drug  gold= confidence=10
+Example: Lowsium Plus 24 guess= drug  gold= confidence=10
+Example: Lufyllin guess= drug  gold= confidence=10
+Example: Luminal guess= drug  gold= confidence=10
+Example: Lumitene guess= drug  gold= confidence=10
+Example: Lupron guess= drug  gold= confidence=10
+Example: Lyme disease vaccine guess= drug  gold= confidence=10
+Example: Macrobid guess= drug  gold= confidence=10
+Example: Maltsupex guess= drug  gold= confidence=10
+Example: Marinol guess= drug  gold= confidence=10
+Example: Mavik 12 guess= drug  gold= confidence=10
+Example: Maxeran guess= drug  gold= confidence=10
+Example: Maximum Strength Gas Relief guess= drug  gold= confidence=10
+Example: Maximum Strength Mylanta Gas Relief guess= drug  gold= confidence=10
+Example: Maximum Strength SnapBack Stimulant Powders guess= drug  gold= confidence=10
+Example: Medrol guess= drug  gold= confidence=10
+Example: Megral guess= drug  gold= confidence=10
+Example: Menaval-20 guess= drug  gold= confidence=10
+Example: Meridia guess= drug  gold= confidence=10
+Example: Merrem I.V. guess= drug  gold= confidence=10
+Example: Meruvax II guess= drug  gold= confidence=10
+Example: Mestinon guess= drug  gold= confidence=10
+Example: Methacort 80 guess= drug  gold= confidence=10
+Example: METHYPRYLON guess= drug  gold= confidence=10
+Example: Midahist DH 32 guess= drug  gold= confidence=10
+Example: Miltown guess= drug  gold= confidence=10
+Example: Minims Phenylephrine guess= drug  gold= confidence=10
+Example: Minipress guess= drug  gold= confidence=10
+Example: Mithracin guess= drug  gold= confidence=10
+Example: Moban guess= drug  gold= confidence=10
+Example: Modane Bulk guess= drug  gold= confidence=10
+Example: Modecate guess= drug  gold= confidence=10
+Example: Mogadon 13 guess= drug  gold= confidence=10
+Example: Monistat 3 guess= drug  gold= confidence=10
+Example: Monistat 3 Dual-Pak guess= drug  gold= confidence=10
+Example: Monopril guess= drug  gold= confidence=10
+Example: Myciguent guess= drug  gold= confidence=10
+Example: MyCort guess= drug  gold= confidence=10
+Example: Mydriacyl guess= drug  gold= confidence=10
+Example: Mygel II guess= drug  gold= confidence=10
+Example: Mylanta Gas guess= drug  gold= confidence=10
+Example: Mylanta Sugar Free Natural Fiber Supplement guess= drug  gold= confidence=10
+Example: Myolin guess= drug  gold= confidence=10
+Example: Myotrol guess= drug  gold= confidence=10
+Example: N-IPV guess= drug  gold= confidence=10
+Example: N.E.E. 1/50 guess= drug  gold= confidence=10
+Example: Nadostine guess= drug  gold= confidence=10
+Example: Naftin guess= drug  gold= confidence=10
+Example: Nalda-Relief Pediatric Drops 14 guess= drug  gold= confidence=10
+Example: Naldecon Pediatric Drops 14 guess= drug  gold= confidence=10
+Example: Nalex 142 guess= drug  gold= confidence=10
+Example: Nalfed-PD guess= drug  gold= confidence=10
+Example: Naprosyn-E 13 guess= drug  gold= confidence=10
+Example: Nasatab LA 142 guess= drug  gold= confidence=10
+Example: Necon 1/35 guess= drug  gold= confidence=10
+Example: Nelova 1/35E guess= drug  gold= confidence=10
+Example: Neo-Calglucon guess= drug  gold= confidence=10
+Example: Neo-Fer guess= drug  gold= confidence=10
+Example: Neo-Synephrine guess= drug  gold= confidence=10
+Example: Neo-Synephrine Nasal Jelly guess= drug  gold= confidence=10
+Example: Neoral guess= drug  gold= confidence=10
+Example: Neosporin Ophthalmic Ointment guess= drug  gold= confidence=10
+Example: Neotal guess= drug  gold= confidence=10
+Example: Nestrex guess= drug  gold= confidence=10
+Example: Neumega guess= drug  gold= confidence=10
+Example: Neuroforte-R guess= drug  gold= confidence=10
+Example: Neutrogena Deep Glow 32 guess= drug  gold= confidence=10
+Example: Nia-Bid guess= drug  gold= confidence=10
+Example: Niacels guess= drug  gold= confidence=10
+Example: Night-Time Effervescent Cold 17 guess= drug  gold= confidence=10
+Example: Nilstat guess= drug  gold= confidence=10
+Example: Nizoral Shampoo guess= drug  gold= confidence=10
+Example: Nolvadex guess= drug  gold= confidence=10
+Example: Norditropin guess= drug  gold= confidence=10
+Example: Norethin 1/50M guess= drug  gold= confidence=10
+Example: Norfranil guess= drug  gold= confidence=10
+Example: Norgesic Forte guess= drug  gold= confidence=10
+Example: Norinyl 1+50 guess= drug  gold= confidence=10
+Example: Norphadrine guess= drug  gold= confidence=10
+Example: Nostril Spray Pump Mild guess= drug  gold= confidence=10
+Example: Novahistex DH Expectorant 128 guess= drug  gold= confidence=10
+Example: Novahistine DM w/ Decongestant 121 guess= drug  gold= confidence=10
+Example: Novo-AZT guess= drug  gold= confidence=10
+Example: Novo-Digoxin guess= drug  gold= confidence=10
+Example: Novo-Dipiradol guess= drug  gold= confidence=10
+Example: Novo-Pirocam 16 guess= drug  gold= confidence=10
+Example: Novo-Tripramine guess= drug  gold= confidence=10
+Example: Novo-Veramil guess= drug  gold= confidence=10
+Example: Novolin ge 30/70 10 guess= drug  gold= confidence=10
+Example: Novolin ge 30/70 Penfill 10 guess= drug  gold= confidence=10
+Example: Novolin ge Lente guess= drug  gold= confidence=10
+Example: Novotriptyn guess= drug  gold= confidence=10
+Example: Novoxapam 14 guess= drug  gold= confidence=10
+Example: NPH Iletin II guess= drug  gold= confidence=10
+Example: Nu-Ampi guess= drug  gold= confidence=10
+Example: Nu-Cephalex 19 guess= drug  gold= confidence=10
+Example: Nu-Cimet guess= drug  gold= confidence=10
+Example: Nu-Diltiaz guess= drug  gold= confidence=10
+Example: Nu-Loraz 12 guess= drug  gold= confidence=10
+Example: Nu-Naprox 13 guess= drug  gold= confidence=10
+Example: Nu-Nifed guess= drug  gold= confidence=10
+Example: Nucochem Pediatric Expectorant 131 guess= drug  gold= confidence=10
+Example: Nupercainal Cream guess= drug  gold= confidence=10
+Example: Nupercainal Ointment guess= drug  gold= confidence=10
+Example: Nystop guess= drug  gold= confidence=10
+Example: Ocu-Sul-30 guess= drug  gold= confidence=10
+Example: Ocu-Tropine guess= drug  gold= confidence=10
+Example: Ocusert Pilo-40 guess= drug  gold= confidence=10
+Example: Ocusporin guess= drug  gold= confidence=10
+Example: OFF! Skintastic For Kids guess= drug  gold= confidence=10
+Example: Ogen 1.25 guess= drug  gold= confidence=10
+Example: Ophtho-Dipivefrin guess= drug  gold= confidence=10
+Example: OptiPranolol guess= drug  gold= confidence=10
+Example: Orajel Maximum Strength guess= drug  gold= confidence=10
+Example: Oralone guess= drug  gold= confidence=10
+Example: Orange Flavor Metamucil Smooth Sugar-Free guess= drug  gold= confidence=10
+Example: Orbenin guess= drug  gold= confidence=10
+Example: Oreticyl guess= drug  gold= confidence=10
+Example: Orfro guess= drug  gold= confidence=10
+Example: Ornade Expectorant 95 guess= drug  gold= confidence=10
+Example: Ornex No Drowsiness Caplets guess= drug  gold= confidence=10
+Example: Orudis-E guess= drug  gold= confidence=10
+Example: Os-Cal guess= drug  gold= confidence=10
+Example: Os-Cal 500 Chewable guess= drug  gold= confidence=10
+Example: Otic-Care guess= drug  gold= confidence=10
+Example: Otocidin guess= drug  gold= confidence=10
+Example: Otocort guess= drug  gold= confidence=10
+Example: Otrivin Measured-Dose Pump with Moisturizers guess= drug  gold= confidence=10
+Example: Otrivin Nasal Drops guess= drug  gold= confidence=10
+Example: Oxy Clean Extra Strength Medicated Pads guess= drug  gold= confidence=10
+Example: Oxy Night Watch Night Time Acne Medication Extra Strength Lotion guess= drug  gold= confidence=10
+Example: Oxycodone with APAP guess= drug  gold= confidence=10
+Example: OxyContin 12 guess= drug  gold= confidence=10
+Example: Oxyderm 20 Lotion guess= drug  gold= confidence=10
+Example: Palafer guess= drug  gold= confidence=10
+Example: Paludrine guess= drug  gold= confidence=10
+Example: Pavarine guess= drug  gold= confidence=10
+Example: Pediacof Cough 69 guess= drug  gold= confidence=10
+Example: Pedialyte Freezer Pops guess= drug  gold= confidence=10
+Example: Pedvaxhib guess= drug  gold= confidence=10
+Example: Penthrane guess= drug  gold= confidence=10
+Example: Pepcid I.V. guess= drug  gold= confidence=10
+Example: Peptavlon guess= drug  gold= confidence=10
+Example: Pepto-Bismol guess= drug  gold= confidence=10
+Example: Peptol guess= drug  gold= confidence=10
+Example: Persantine guess= drug  gold= confidence=10
+Example: Pertussin CS Children's Strength guess= drug  gold= confidence=10
+Example: Phenazine 25 guess= drug  gold= confidence=10
+Example: Phentercot guess= drug  gold= confidence=10
+Example: Phillips' Chewable 26 guess= drug  gold= confidence=10
+Example: Phrenilin guess= drug  gold= confidence=10
+Example: Pilopine HS guess= drug  gold= confidence=10
+Example: Piloptic-3 guess= drug  gold= confidence=10
+Example: Piloptic-4 guess= drug  gold= confidence=10
+Example: PMS Benztropine guess= drug  gold= confidence=10
+Example: PMS-Acetaminophen with Codeine guess= drug  gold= confidence=10
+Example: PMS-ASA guess= drug  gold= confidence=10
+Example: PMS-Dimenhydrinate guess= drug  gold= confidence=10
+Example: PMS-Docusate Sodium 44 guess= drug  gold= confidence=10
+Example: PMS-Sennosides 36 guess= drug  gold= confidence=10
+Example: Pneumovax 23 guess= drug  gold= confidence=10
+Example: Poly D 23 guess= drug  gold= confidence=10
+Example: Poly-Histine-DM 21 guess= drug  gold= confidence=10
+Example: Polycitra Syrup guess= drug  gold= confidence=10
+Example: Polycitra-K guess= drug  gold= confidence=10
+Example: Polygam S/D guess= drug  gold= confidence=10
+Example: PPA guess= drug  gold= confidence=10
+Example: Pre-Attain guess= drug  gold= confidence=10
+Example: Pred Forte guess= drug  gold= confidence=10
+Example: Predair A guess= drug  gold= confidence=10
+Example: Predate S guess= drug  gold= confidence=10
+Example: Prednicot guess= drug  gold= confidence=10
+Example: Pregestimil guess= drug  gold= confidence=10
+Example: Prelu-2 guess= drug  gold= confidence=10
+Example: Premarin with Methyltestosterone guess= drug  gold= confidence=10
+Example: Pressyn guess= drug  gold= confidence=10
+Example: PreSun Moisturizing 49 guess= drug  gold= confidence=10
+Example: PreSun Spray Mist 34 47 guess= drug  gold= confidence=10
+Example: Prevacid guess= drug  gold= confidence=10
+Example: PRIMAQUINE guess= drug  gold= confidence=10
+Example: Pro-Cal-Sof 44 guess= drug  gold= confidence=10
+Example: Pro-Med 50 guess= drug  gold= confidence=10
+Example: Procardia XL guess= drug  gold= confidence=10
+Example: Prodiem Plain guess= drug  gold= confidence=10
+Example: Prodrox guess= drug  gold= confidence=10
+Example: Profasi guess= drug  gold= confidence=10
+Example: Proloprim guess= drug  gold= confidence=10
+Example: Promacot guess= drug  gold= confidence=10
+Example: Prominicol Cough 77 guess= drug  gold= confidence=10
+Example: Prop-a-Hist 14 guess= drug  gold= confidence=10
+Example: Propa pH Medicated Cleansing Pads Maximum Strength guess= drug  gold= confidence=10
+Example: Propine guess= drug  gold= confidence=10
+Example: Proplex T guess= drug  gold= confidence=10
+Example: Prorex-50 guess= drug  gold= confidence=10
+Example: Provera Pak guess= drug  gold= confidence=10
+Example: Pseudo-Car DM 23 guess= drug  gold= confidence=10
+Example: Pyri guess= drug  gold= confidence=10
+Example: Quadramet guess= drug  gold= confidence=10
+Example: Quelidrine Cough 65 guess= drug  gold= confidence=10
+Example: Raxar guess= drug  gold= confidence=10
+Example: Regular Iletin II guess= drug  gold= confidence=10
+Example: Regular Strength Tylenol Cough Medication with Decongestant124 guess= drug  gold= confidence=10
+Example: Reguloid Natural guess= drug  gold= confidence=10
+Example: Reguloid Natural Sugar Free guess= drug  gold= confidence=10
+Example: Relafen 12 guess= drug  gold= confidence=10
+Example: Rep-Pred 40 guess= drug  gold= confidence=10
+Example: Rep-Pred 80 guess= drug  gold= confidence=10
+Example: Replete with Fiber guess= drug  gold= confidence=10
+Example: Requip guess= drug  gold= confidence=10
+Example: Rescon-DM 33 guess= drug  gold= confidence=10
+Example: Rescon-ED 15 guess= drug  gold= confidence=10
+Example: Respaire-60 SR 142 guess= drug  gold= confidence=10
+Example: Resyl guess= drug  gold= confidence=10
+Example: Rhinocort Turbuhaler guess= drug  gold= confidence=10
+Example: Riopan 23 guess= drug  gold= confidence=10
+Example: Riopan Plus Extra Strength 24 guess= drug  gold= confidence=10
+Example: Rituxan guess= drug  gold= confidence=10
+Example: Robafen AC Cough 106 guess= drug  gold= confidence=10
+Example: Robalog guess= drug  gold= confidence=10
+Example: Robinul guess= drug  gold= confidence=10
+Example: Robitussin Pediatric Cough & Cold 121 guess= drug  gold= confidence=10
+Example: Robitussin with Codeine 15 guess= drug  gold= confidence=10
+Example: Robitussin-DM 109 guess= drug  gold= confidence=10
+Example: Robitussin-PE 142 guess= drug  gold= confidence=10
+Example: Rogaine guess= drug  gold= confidence=10
+Example: Roniacol guess= drug  gold= confidence=10
+Example: Rowasa guess= drug  gold= confidence=10
+Example: Roxilox guess= drug  gold= confidence=10
+Example: RSV-IGIV guess= drug  gold= confidence=10
+Example: Ru-Tuss guess= drug  gold= confidence=10
+Example: Ru-Tuss 10 guess= drug  gold= confidence=10
+Example: Rulox No. 2 guess= drug  gold= confidence=10
+Example: Rulox Plus guess= drug  gold= confidence=10
+Example: Sal-Acid Plaster guess= drug  gold= confidence=10
+Example: Salagen guess= drug  gold= confidence=10
+Example: Scot-Tussin Senior Clear 109 guess= drug  gold= confidence=10
+Example: Sebucare guess= drug  gold= confidence=10
+Example: Seconal guess= drug  gold= confidence=10
+Example: Sectral guess= drug  gold= confidence=10
+Example: Select 1/35 guess= drug  gold= confidence=10
+Example: Selsun Blue Extra Conditioning Formula guess= drug  gold= confidence=10
+Example: Senexon 35 guess= drug  gold= confidence=10
+Example: Senna-Gen 35 guess= drug  gold= confidence=10
+Example: SensoGARD Canker Sore Relief guess= drug  gold= confidence=10
+Example: Sensorcaine Forte guess= drug  gold= confidence=10
+Example: Ser-A-Gen guess= drug  gold= confidence=10
+Example: Shovite guess= drug  gold= confidence=10
+Example: Similac 20 guess= drug  gold= confidence=10
+Example: Sintrom guess= drug  gold= confidence=10
+Example: Sinus Allergy Triaminicin Cold guess= drug  gold= confidence=10
+Example: Sinutab No Drowsiness Extra Strength Caplets guess= drug  gold= confidence=10
+Example: Sinutrol 500 Caplets guess= drug  gold= confidence=10
+Example: Skelex guess= drug  gold= confidence=10
+Example: Sleep-Eze D 10 guess= drug  gold= confidence=10
+Example: Slow Fe guess= drug  gold= confidence=10
+Example: SMA Lo-Iron 24 guess= drug  gold= confidence=10
+Example: Sopamycetin Ophthalmic Ointment guess= drug  gold= confidence=10
+Example: Sorbitrate guess= drug  gold= confidence=10
+Example: Spasmophen guess= drug  gold= confidence=10
+Example: Spectro-Caine guess= drug  gold= confidence=10
+Example: Spectro-Chlor Ophthalmic Ointment guess= drug  gold= confidence=10
+Example: Spectro-Chlor Ophthalmic Solution guess= drug  gold= confidence=10
+Example: Spectrobid guess= drug  gold= confidence=10
+Example: Staphcillin guess= drug  gold= confidence=10
+Example: Statex Drops guess= drug  gold= confidence=10
+Example: Staticin guess= drug  gold= confidence=10
+Example: Statuss Green 39 guess= drug  gold= confidence=10
+Example: Stimate Nasal Spray guess= drug  gold= confidence=10
+Example: Storz-Dexa guess= drug  gold= confidence=10
+Example: Stri-Dex Regular Strength Pads guess= drug  gold= confidence=10
+Example: Stulex 44 guess= drug  gold= confidence=10
+Example: Sublimaze guess= drug  gold= confidence=10
+Example: Sudafed Cold & Flu Gelcaps 136 guess= drug  gold= confidence=10
+Example: Sudafed Cough & Cold Extra Strength Caplets 124 guess= drug  gold= confidence=10
+Example: Sudal 120/600 142 guess= drug  gold= confidence=10
+Example: Sulfair 15 guess= drug  gold= confidence=10
+Example: Sulfolax 44 guess= drug  gold= confidence=10
+Example: Sundown Sunblock 38 guess= drug  gold= confidence=10
+Example: Sunkist guess= drug  gold= confidence=10
+Example: Supeudol 12 guess= drug  gold= confidence=10
+Example: Suppressin DM Plus 126 guess= drug  gold= confidence=10
+Example: Suprefact guess= drug  gold= confidence=10
+Example: Sustacal Basic guess= drug  gold= confidence=10
+Example: Sustiva guess= drug  gold= confidence=10
+Example: Syllact guess= drug  gold= confidence=10
+Example: Synthroid guess= drug  gold= confidence=10
+Example: Talwin-Nx 14 guess= drug  gold= confidence=10
+Example: Tarka guess= drug  gold= confidence=10
+Example: Tavist guess= drug  gold= confidence=10
+Example: Taxol guess= drug  gold= confidence=10
+Example: Tebrazid guess= drug  gold= confidence=10
+Example: Telachlor guess= drug  gold= confidence=10
+Example: Testred guess= drug  gold= confidence=10
+Example: THA guess= drug  gold= confidence=10
+Example: Theo-24 guess= drug  gold= confidence=10
+Example: Theo-SR guess= drug  gold= confidence=10
+Example: Theo-Time guess= drug  gold= confidence=10
+Example: Theoclear-80 guess= drug  gold= confidence=10
+Example: Theocon guess= drug  gold= confidence=10
+Example: Thiopentone guess= drug  gold= confidence=10
+Example: Threamine DM 31 guess= drug  gold= confidence=10
+Example: Thyrar guess= drug  gold= confidence=10
+Example: TI - UVA - B Sunscreen 41 guess= drug  gold= confidence=10
+Example: Tim-AK guess= drug  gold= confidence=10
+Example: Timolide guess= drug  gold= confidence=10
+Example: Tinactin Cream guess= drug  gold= confidence=10
+Example: Tinactin Jock Itch Cream guess= drug  gold= confidence=10
+Example: Titralac guess= drug  gold= confidence=10
+Example: Titralac 18 guess= drug  gold= confidence=10
+Example: Titralac Plus 21 guess= drug  gold= confidence=10
+Example: TMO guess= drug  gold= confidence=10
+Example: Tofranil-PM guess= drug  gold= confidence=10
+Example: Tonocard guess= drug  gold= confidence=10
+Example: Topicaine guess= drug  gold= confidence=10
+Example: Totacillin guess= drug  gold= confidence=10
+Example: Touro LA Caplets 142 guess= drug  gold= confidence=10
+Example: Trandate guess= drug  gold= confidence=10
+Example: Trans-Ver-Sal guess= drug  gold= confidence=10
+Example: Tranxene-SD guess= drug  gold= confidence=10
+Example: Travasorb HN guess= drug  gold= confidence=10
+Example: Trazon guess= drug  gold= confidence=10
+Example: Tri-Tannate Pediatric 16 guess= drug  gold= confidence=10
+Example: Trialodine guess= drug  gold= confidence=10
+Example: Triaminic-DM Cough Relief 118 guess= drug  gold= confidence=10
+Example: Triamonide 40 guess= drug  gold= confidence=10
+Example: Tribiotic guess= drug  gold= confidence=10
+Example: Tridesilon guess= drug  gold= confidence=10
+Example: Trilafon Concentrate guess= drug  gold= confidence=10
+Example: Triphasil guess= drug  gold= confidence=10
+Example: Triposed 28 guess= drug  gold= confidence=10
+Example: Tristatin II guess= drug  gold= confidence=10
+Example: Trocal guess= drug  gold= confidence=10
+Example: Tussafed 23 guess= drug  gold= confidence=10
+Example: Tussi-Organidin NR Liquid 106 guess= drug  gold= confidence=10
+Example: Tussogest 117 guess= drug  gold= confidence=10
+Example: Tylenol Cold and Flu No Drowsiness Powder 124 guess= drug  gold= confidence=10
+Example: Tylenol Cold Multi-Symptom 58 guess= drug  gold= confidence=10
+Example: Tylenol Sinus Medication Regular Strength Caplets guess= drug  gold= confidence=10
+Example: UAA guess= drug  gold= confidence=10
+Example: Ulobetasol guess= drug  gold= confidence=10
+Example: ULTRAbrom PD guess= drug  gold= confidence=10
+Example: Uni-Multihist D 23 guess= drug  gold= confidence=10
+Example: Univasc guess= drug  gold= confidence=10
+Example: Urex guess= drug  gold= confidence=10
+Example: Urimed guess= drug  gold= confidence=10
+Example: Uro-Ves guess= drug  gold= confidence=10
+Example: Urocit-K guess= drug  gold= confidence=10
+Example: Uvadex guess= drug  gold= confidence=10
+Example: Valertest No. 1 guess= drug  gold= confidence=10
+Example: Vancenase guess= drug  gold= confidence=10
+Example: Vaseline Extra Defense for Hand and Body 41 guess= drug  gold= confidence=10
+Example: Vasocon Regular guess= drug  gold= confidence=10
+Example: Vasotec guess= drug  gold= confidence=10
+Example: Veetids 13 guess= drug  gold= confidence=10
+Example: Versel Lotion guess= drug  gold= confidence=10
+Example: Vicks Children's NyQuil Cold/Cough Relief 33 guess= drug  gold= confidence=10
+Example: Vicks DayQuil Sinus Pressure and Congestion Relief Caplets 141 guess= drug  gold= confidence=10
+Example: Vicks NyQuil Multi-Symptom Cold/Flu LiquiCaps 60 guess= drug  gold= confidence=10
+Example: Vicks Sinex 12-Hour Ultra Fine Mist for Sinus Relief guess= drug  gold= confidence=10
+Example: Vioform-Hydrocortisone Mild Cream guess= drug  gold= confidence=10
+Example: Vioform-Hydrocortisone Ointment guess= drug  gold= confidence=10
+Example: VIRACEPT guess= drug  gold= confidence=10
+Example: Virazole guess= drug  gold= confidence=10
+Example: Visken 11 guess= drug  gold= confidence=10
+Example: Vumon guess= drug  gold= confidence=10
+Example: Wintrocin guess= drug  gold= confidence=10
+Example: Xerac BP 5 guess= drug  gold= confidence=10
+Example: Xylocaine-MPF guess= drug  gold= confidence=10
+Example: Yohimar guess= drug  gold= confidence=10
+Example: Z-Plus guess= drug  gold= confidence=10
+Example: Zanosar guess= drug  gold= confidence=10
+Example: Zephrex-LA 142 guess= drug  gold= confidence=10
+Example: Zerit guess= drug  gold= confidence=10
+Example: Ziagen guess= drug  gold= confidence=10
+Example: Zincate guess= drug  gold= confidence=10
+Example: Zyflo guess= drug  gold= confidence=10
+Example: Zyrtec guess= drug  gold= confidence=10
+Example: Aarno Karimo guess= drug  gold= confidence=10
+Example: Abdullah Ibn Sailam guess= drug  gold= confidence=10
+Example: Abdullah ibn Masud guess= drug  gold= confidence=10
+Example: Abraham Robinson guess= drug  gold= confidence=10
+Example: Abu-d Dardaa guess= drug  gold= confidence=10
+Example: Adeodatus guess= drug  gold= confidence=10
+Example: Adriaan Vlacq guess= drug  gold= confidence=10
+Example: Adrian I guess= drug  gold= confidence=10
+Example: Alain Connes guess= drug  gold= confidence=10
+Example: Alan Baker guess= drug  gold= confidence=10
+Example: Alan L. Bean guess= drug  gold= confidence=10
+Example: Alberta Hunter guess= drug  gold= confidence=10
+Example: Albrecht Kossel guess= drug  gold= confidence=10
+Example: Alessandro Volta guess= drug  gold= confidence=10
+Example: Alexander IV guess= drug  gold= confidence=10
+Example: Alexander Weinstein guess= drug  gold= confidence=10
+Example: Alexis M. Herman guess= drug  gold= confidence=10
+Example: Alfred Hermann Fried guess= drug  gold= confidence=10
+Example: Alfred Werner guess= drug  gold= confidence=10
+Example: Alfred von Tirpitz guess= drug  gold= confidence=10
+Example: Alice Hayes guess= drug  gold= confidence=10
+Example: Althea Gibson guess= drug  gold= confidence=10
+Example: Alvin "Red" Tyler guess= drug  gold= confidence=10
+Example: Amelia Earhart guess= drug  gold= confidence=10
+Example: Andrew Bonar Law guess= drug  gold= confidence=10
+Example: Andrew Johnson guess= drug  gold= confidence=10
+Example: Anne Heche guess= drug  gold= confidence=10
+Example: Antoni Zygmund guess= drug  gold= confidence=10
+Example: Apollo guess= drug  gold= confidence=10
+Example: Archer John Porter Martin guess= drug  gold= confidence=10
+Example: Arthur Kornberg guess= drug  gold= confidence=10
+Example: Arthur Lakes guess= drug  gold= confidence=10
+Example: Athene guess= drug  gold= confidence=10
+Example: Atle Selberg guess= drug  gold= confidence=10
+Example: August Blanche guess= drug  gold= confidence=10
+Example: Barakah guess= drug  gold= confidence=10
+Example: Barbara Welther guess= drug  gold= confidence=10
+Example: Baruj Benacerraf guess= drug  gold= confidence=10
+Example: Ben Kingsley guess= drug  gold= confidence=10
+Example: Benedict I guess= drug  gold= confidence=10
+Example: Benjamin Banneker guess= drug  gold= confidence=10
+Example: Benjamin Waterhouse Hawkins guess= drug  gold= confidence=10
+Example: Benoit Mandelbrot guess= drug  gold= confidence=10
+Example: Bernt Holmboe guess= drug  gold= confidence=10
+Example: Betty Williams guess= drug  gold= confidence=10
+Example: Bill Pullman guess= drug  gold= confidence=10
+Example: Bill Wilson guess= drug  gold= confidence=10
+Example: Billy Graham guess= drug  gold= confidence=10
+Example: Billy Hamilton guess= drug  gold= confidence=10
+Example: Blaise Pascal guess= drug  gold= confidence=10
+Example: Blessed Innocent XI guess= drug  gold= confidence=10
+Example: Bob Dylan guess= drug  gold= confidence=10
+Example: Bob Gibson guess= drug  gold= confidence=10
+Example: Bob Haggart guess= drug  gold= confidence=10
+Example: Boniface II guess= drug  gold= confidence=10
+Example: Bonnie J. Dunbar guess= drug  gold= confidence=10
+Example: Boris Delone guess= drug  gold= confidence=10
+Example: Branwell Brontë guess= drug  gold= confidence=10
+Example: Bruce Willis guess= drug  gold= confidence=10
+Example: Bud Freeman guess= drug  gold= confidence=10
+Example: Buffon guess= drug  gold= confidence=10
+Example: C de la Vallée Poussin guess= drug  gold= confidence=10
+Example: C. Mathewson guess= drug  gold= confidence=10
+Example: Cal Ripken, Jr. guess= drug  gold= confidence=10
+Example: Caleb Carr guess= drug  gold= confidence=10
+Example: Campanus of Novara guess= drug  gold= confidence=10
+Example: Candice Bergen guess= drug  gold= confidence=10
+Example: Carl Ferdinand Cori guess= drug  gold= confidence=10
+Example: Carl Gustaf Verner Von Heidenstam guess= drug  gold= confidence=10
+Example: Caroline Chisholm guess= drug  gold= confidence=10
+Example: Carroll J. Guillory guess= drug  gold= confidence=10
+Example: Catfish Hunter guess= drug  gold= confidence=10
+Example: Celestine II guess= drug  gold= confidence=10
+Example: Celestine IV guess= drug  gold= confidence=10
+Example: Charles Brianchon guess= drug  gold= confidence=10
+Example: Charles Delaunay guess= drug  gold= confidence=10
+Example: Charles Dodgson guess= drug  gold= confidence=10
+Example: Charles E. Brady, Jr. guess= drug  gold= confidence=10
+Example: Charles Jagger guess= drug  gold= confidence=10
+Example: Charles Louis Alphonse Laveran guess= drug  gold= confidence=10
+Example: Charles Pears guess= drug  gold= confidence=10
+Example: Charles Reyneau guess= drug  gold= confidence=10
+Example: Charlie Chaplin guess= drug  gold= confidence=10
+Example: Charlotte Scott guess= drug  gold= confidence=10
+Example: Cher guess= drug  gold= confidence=10
+Example: Chester W. Nimitz guess= drug  gold= confidence=10
+Example: Chevy Chase guess= drug  gold= confidence=10
+Example: Christina Ricci guess= drug  gold= confidence=10
+Example: Christopher Clavius guess= drug  gold= confidence=10
+Example: Christopher Marlowe guess= drug  gold= confidence=10
+Example: Claude Debussy guess= drug  gold= confidence=10
+Example: Claude Dechales guess= drug  gold= confidence=10
+Example: Clement III guess= drug  gold= confidence=10
+Example: Cleopatra VII guess= drug  gold= confidence=10
+Example: Clouet guess= drug  gold= confidence=10
+Example: Colonel Mary A. Hallaren guess= drug  gold= confidence=10
+Example: Conon guess= drug  gold= confidence=10
+Example: D'alembert guess= drug  gold= confidence=10
+Example: Daniel M. Tani guess= drug  gold= confidence=10
+Example: David Bomberg guess= drug  gold= confidence=10
+Example: David H. Hubel guess= drug  gold= confidence=10
+Example: David Lloyd George guess= drug  gold= confidence=10
+Example: David R. Williams guess= drug  gold= confidence=10
+Example: David Spade guess= drug  gold= confidence=10
+Example: Deepak Chopra guess= drug  gold= confidence=10
+Example: Democritus of Abdera guess= drug  gold= confidence=10
+Example: Dianne Feinstein guess= drug  gold= confidence=10
+Example: Dickinson W. Richards guess= drug  gold= confidence=10
+Example: Dimitri Egorov guess= drug  gold= confidence=10
+Example: Dirk Bouts guess= drug  gold= confidence=10
+Example: Don Carlos Buell guess= drug  gold= confidence=10
+Example: Dr. Dean Ornish guess= drug  gold= confidence=10
+Example: Earl of Aberdeen guess= drug  gold= confidence=10
+Example: Eddie Arcaro guess= drug  gold= confidence=10
+Example: Eddie Plank guess= drug  gold= confidence=10
+Example: Edmund Kirby Smith guess= drug  gold= confidence=10
+Example: Edouard Manet guess= drug  gold= confidence=10
+Example: Edward Drinker Cope guess= drug  gold= confidence=10
+Example: Edward I guess= drug  gold= confidence=10
+Example: Edward III guess= drug  gold= confidence=10
+Example: Edward Ory guess= drug  gold= confidence=10
+Example: Edward V guess= drug  gold= confidence=10
+Example: Edwin G. Krebs guess= drug  gold= confidence=10
+Example: Elias Canetti guess= drug  gold= confidence=10
+Example: Elie Wiesel guess= drug  gold= confidence=10
+Example: Elisabeth Kuber Ross guess= drug  gold= confidence=10
+Example: Elizabeth Virginia Wallace Truman guess= drug  gold= confidence=10
+Example: Ellen S. Baker guess= drug  gold= confidence=10
+Example: Elton John guess= drug  gold= confidence=10
+Example: Emmy Noether guess= drug  gold= confidence=10
+Example: Empedocles guess= drug  gold= confidence=10
+Example: Eric F. Wieschaus guess= drug  gold= confidence=10
+Example: Eric Heiden guess= drug  gold= confidence=10
+Example: Erich Hecke guess= drug  gold= confidence=10
+Example: Erik Zeeman guess= drug  gold= confidence=10
+Example: Erland Bring guess= drug  gold= confidence=10
+Example: Ernest Miller Hemingway guess= drug  gold= confidence=10
+Example: Ernie Lombardi guess= drug  gold= confidence=10
+Example: Erwin Freundlich guess= drug  gold= confidence=10
+Example: Estee Lauder guess= drug  gold= confidence=10
+Example: Etienne Pascal guess= drug  gold= confidence=10
+Example: F. E. Sillanpää guess= drug  gold= confidence=10
+Example: Florence Sabin guess= drug  gold= confidence=10
+Example: Francesco Cantelli guess= drug  gold= confidence=10
+Example: Francis Galton guess= drug  gold= confidence=10
+Example: Francois Tisserand guess= drug  gold= confidence=10
+Example: Frank McCourt guess= drug  gold= confidence=10
+Example: Fred W. Haise guess= drug  gold= confidence=10
+Example: Frederick Soddy guess= drug  gold= confidence=10
+Example: Friedrich Schottky guess= drug  gold= confidence=10
+Example: Frédéric Bazille guess= drug  gold= confidence=10
+Example: G F Bernhard Riemann guess= drug  gold= confidence=10
+Example: G N Watson guess= drug  gold= confidence=10
+Example: G de Roberval Personne guess= drug  gold= confidence=10
+Example: G. David Low guess= drug  gold= confidence=10
+Example: Gabriel Koenigs guess= drug  gold= confidence=10
+Example: Gabriela Mistral guess= drug  gold= confidence=10
+Example: Galahad guess= drug  gold= confidence=10
+Example: Genevieve M. Knight guess= drug  gold= confidence=10
+Example: Georg Scheffers guess= drug  gold= confidence=10
+Example: George Atwood guess= drug  gold= confidence=10
+Example: George Bernard Shaw guess= drug  gold= confidence=10
+Example: George Canning guess= drug  gold= confidence=10
+Example: George Darwin guess= drug  gold= confidence=10
+Example: George Foster guess= drug  gold= confidence=10
+Example: George Washington guess= drug  gold= confidence=10
+Example: Georges Comte de Buffon guess= drug  gold= confidence=10
+Example: Georgii Pfeiffer guess= drug  gold= confidence=10
+Example: Georgii Polozii guess= drug  gold= confidence=10
+Example: Gerhard Domagk guess= drug  gold= confidence=10
+Example: Gerhard Gentzen guess= drug  gold= confidence=10
+Example: Germinal Dandelin guess= drug  gold= confidence=10
+Example: Gertrude B. Elion Perlman guess= drug  gold= confidence=10
+Example: Gertrude Rainey guess= drug  gold= confidence=10
+Example: Giovanni Saccheri guess= drug  gold= confidence=10
+Example: Giovanni Vacca guess= drug  gold= confidence=10
+Example: Giulio Natta guess= drug  gold= confidence=10
+Example: Giuseppe Bruno guess= drug  gold= confidence=10
+Example: Giuseppe Veronese guess= drug  gold= confidence=10
+Example: Goerg Henrik Von Wright guess= drug  gold= confidence=10
+Example: Gorlois guess= drug  gold= confidence=10
+Example: Gregory IX guess= drug  gold= confidence=10
+Example: Gregory VI guess= drug  gold= confidence=10
+Example: Gregory VIII guess= drug  gold= confidence=10
+Example: Gustav Hertz guess= drug  gold= confidence=10
+Example: Gustav Stresemann guess= drug  gold= confidence=10
+Example: Hank Greenberg guess= drug  gold= confidence=10
+Example: Hank Williams guess= drug  gold= confidence=10
+Example: Hans Baldung Grien guess= drug  gold= confidence=10
+Example: Hans Heilbronn guess= drug  gold= confidence=10
+Example: Hans Reichenbach guess= drug  gold= confidence=10
+Example: Hassan II guess= drug  gold= confidence=10
+Example: Heather Locklear guess= drug  gold= confidence=10
+Example: Henri Lebesgue guess= drug  gold= confidence=10
+Example: Henry Baker guess= drug  gold= confidence=10
+Example: Herakles guess= drug  gold= confidence=10
+Example: Hercules guess= drug  gold= confidence=10
+Example: Hermann Kober guess= drug  gold= confidence=10
+Example: Honore Dutrey guess= drug  gold= confidence=10
+Example: Honorius I guess= drug  gold= confidence=10
+Example: Horace Smith-Dorrien guess= drug  gold= confidence=10
+Example: Howard Martin Temin guess= drug  gold= confidence=10
+Example: Howard Stern guess= drug  gold= confidence=10
+Example: Hugh Duffy guess= drug  gold= confidence=10
+Example: Iivo Härkönen guess= drug  gold= confidence=10
+Example: Innocent II guess= drug  gold= confidence=10
+Example: Iréneé-Jules Bienaymé guess= drug  gold= confidence=10
+Example: Isaac Newton guess= drug  gold= confidence=10
+Example: Isacc Asimov guess= drug  gold= confidence=10
+Example: Issai Schur guess= drug  gold= confidence=10
+Example: Iurii Linnik guess= drug  gold= confidence=10
+Example: J. L. Runeberg guess= drug  gold= confidence=10
+Example: Jacob Cooper guess= drug  gold= confidence=10
+Example: Jacob Nielsen guess= drug  gold= confidence=10
+Example: James H. Curry guess= drug  gold= confidence=10
+Example: James K. Polk guess= drug  gold= confidence=10
+Example: James M. Kelly guess= drug  gold= confidence=10
+Example: James Spader guess= drug  gold= confidence=10
+Example: James Sylvester guess= drug  gold= confidence=10
+Example: Jan van Eyck guess= drug  gold= confidence=10
+Example: Jean Argand guess= drug  gold= confidence=10
+Example: Jean Duhamel guess= drug  gold= confidence=10
+Example: Jean Richer guess= drug  gold= confidence=10
+Example: Jean-Loup Chrétien guess= drug  gold= confidence=10
+Example: Jennifer Lopez guess= drug  gold= confidence=10
+Example: Jesse Douglas guess= drug  gold= confidence=10
+Example: Jesse Owens guess= drug  gold= confidence=10
+Example: Jim Bottomley guess= drug  gold= confidence=10
+Example: Jim Carey guess= drug  gold= confidence=10
+Example: Jimmy Smits guess= drug  gold= confidence=10
+Example: Joan Cusack guess= drug  gold= confidence=10
+Example: Joan Rivers guess= drug  gold= confidence=10
+Example: Joe Mcginnity guess= drug  gold= confidence=10
+Example: Joe Medwick guess= drug  gold= confidence=10
+Example: Johann Bernoulli guess= drug  gold= confidence=10
+Example: Johann Deisenhofer guess= drug  gold= confidence=10
+Example: Johannes Vilhelm Jensen guess= drug  gold= confidence=10
+Example: John Bernoulli guess= drug  gold= confidence=10
+Example: John Brown Gordon guess= drug  gold= confidence=10
+Example: John Burkill guess= drug  gold= confidence=10
+Example: John Clarkson guess= drug  gold= confidence=10
+Example: John Dewey guess= drug  gold= confidence=10
+Example: John L. Phillips guess= drug  gold= confidence=10
+Example: John Leech guess= drug  gold= confidence=10
+Example: John Leland guess= drug  gold= confidence=10
+Example: John Lincoln guess= drug  gold= confidence=10
+Example: John M. Chivington guess= drug  gold= confidence=10
+Example: John Mccausland guess= drug  gold= confidence=10
+Example: John Slidell guess= drug  gold= confidence=10
+Example: John Tukey guess= drug  gold= confidence=10
+Example: John Whittaker guess= drug  gold= confidence=10
+Example: John Wilson guess= drug  gold= confidence=10
+Example: John Wishart guess= drug  gold= confidence=10
+Example: John XXI guess= drug  gold= confidence=10
+Example: John of Holywood guess= drug  gold= confidence=10
+Example: Johnny Bench guess= drug  gold= confidence=10
+Example: Joris Hoefnagel guess= drug  gold= confidence=10
+Example: Josef Goebbels guess= drug  gold= confidence=10
+Example: Joseph Doob guess= drug  gold= confidence=10
+Example: Joseph Joffre guess= drug  gold= confidence=10
+Example: Joseph Saurin guess= drug  gold= confidence=10
+Example: Joseph of Arimathea guess= drug  gold= confidence=10
+Example: Josif Shtokalo guess= drug  gold= confidence=10
+Example: Julia Bowman Robinson guess= drug  gold= confidence=10
+Example: Julio Rey Pastor guess= drug  gold= confidence=10
+Example: Justice Kennedy guess= drug  gold= confidence=10
+Example: Justice Rehnquist guess= drug  gold= confidence=10
+Example: Jörn Donner guess= drug  gold= confidence=10
+Example: K C Sreedharan Pillai guess= drug  gold= confidence=10
+Example: K. Alexander Müller guess= drug  gold= confidence=10
+Example: Karl Rahner guess= drug  gold= confidence=10
+Example: Kate Kirby guess= drug  gold= confidence=10
+Example: Kate Winslet guess= drug  gold= confidence=10
+Example: Katharine Hepburn guess= drug  gold= confidence=10
+Example: Kathryn Flanagan guess= drug  gold= confidence=10
+Example: Keith Stewartson guess= drug  gold= confidence=10
+Example: Kevin Costner guess= drug  gold= confidence=10
+Example: Kevin P. Chilton guess= drug  gold= confidence=10
+Example: King Kelly guess= drug  gold= confidence=10
+Example: Knut Hamsun guess= drug  gold= confidence=10
+Example: Konrad Knopp guess= drug  gold= confidence=10
+Example: Konrad Zuse guess= drug  gold= confidence=10
+Example: Kristie Hendrickson guess= drug  gold= confidence=10
+Example: Ladislaus Bortkiewicz guess= drug  gold= confidence=10
+Example: Lambert Quetelet guess= drug  gold= confidence=10
+Example: Larry King guess= drug  gold= confidence=10
+Example: Lars Olof Nathan Söderblom guess= drug  gold= confidence=10
+Example: Lawrence Taylor guess= drug  gold= confidence=10
+Example: Lee Remick guess= drug  gold= confidence=10
+Example: Lena Horne guess= drug  gold= confidence=10
+Example: Leo VI guess= drug  gold= confidence=10
+Example: Leon M. Lederman Lederman guess= drug  gold= confidence=10
+Example: Leonard Wood guess= drug  gold= confidence=10
+Example: Leonhard Euler guess= drug  gold= confidence=10
+Example: Leonid Vitaliyevich Kantorovich guess= drug  gold= confidence=10
+Example: Lewis Strauss guess= drug  gold= confidence=10
+Example: Linus Pauling guess= drug  gold= confidence=10
+Example: Lord Boyd Orr of Brechin guess= drug  gold= confidence=10
+Example: Louis Arbogast guess= drug  gold= confidence=10
+Example: Louis Riel guess= drug  gold= confidence=10
+Example: Louis Vierne guess= drug  gold= confidence=10
+Example: Lucy Lawless guess= drug  gold= confidence=10
+Example: Ludwig Quidde guess= drug  gold= confidence=10
+Example: Luigi Grandi guess= drug  gold= confidence=10
+Example: Luis Aparicio guess= drug  gold= confidence=10
+Example: László Kalmár guess= drug  gold= confidence=10
+Example: Léon Victor Auguste Bourgeois guess= drug  gold= confidence=10
+Example: Marcel Grossmann guess= drug  gold= confidence=10
+Example: Margaret Burbridge guess= drug  gold= confidence=10
+Example: Margaret Mead guess= drug  gold= confidence=10
+Example: Margaret Sanger guess= drug  gold= confidence=10
+Example: Maria da Lourdes Pintasilgo guess= drug  gold= confidence=10
+Example: Marie Guillaumat guess= drug  gold= confidence=10
+Example: Marilyn Horne guess= drug  gold= confidence=10
+Example: Marilyn Whittemore guess= drug  gold= confidence=10
+Example: Mario Andretti guess= drug  gold= confidence=10
+Example: Mark L. Polansky guess= drug  gold= confidence=10
+Example: Martin Lawrence guess= drug  gold= confidence=10
+Example: Marton Taiga guess= drug  gold= confidence=10
+Example: Mary Somerville guess= drug  gold= confidence=10
+Example: Mary Todd Lincoln guess= drug  gold= confidence=10
+Example: Matthew B. Ridgway guess= drug  gold= confidence=10
+Example: Mauri Sariola guess= drug  gold= confidence=10
+Example: Melchior Broederlam guess= drug  gold= confidence=10
+Example: Melvin Calvin guess= drug  gold= confidence=10
+Example: Mia Farrow guess= drug  gold= confidence=10
+Example: Michael A. Baker guess= drug  gold= confidence=10
+Example: Michael Faraday guess= drug  gold= confidence=10
+Example: Michael J. Bloomfield guess= drug  gold= confidence=10
+Example: Michael J. McCulley guess= drug  gold= confidence=10
+Example: Michael P. Anderson guess= drug  gold= confidence=10
+Example: Michel Rolle guess= drug  gold= confidence=10
+Example: Mickey Mantle guess= drug  gold= confidence=10
+Example: Miguel Angel Asturias guess= drug  gold= confidence=10
+Example: Millard Fillmore guess= drug  gold= confidence=10
+Example: Miller Huggins guess= drug  gold= confidence=10
+Example: Mohamed Anwar El Sadat guess= drug  gold= confidence=10
+Example: Monte Irvin guess= drug  gold= confidence=10
+Example: Mordred guess= drug  gold= confidence=10
+Example: Moritz Pasch guess= drug  gold= confidence=10
+Example: Musab ibn Umayr guess= drug  gold= confidence=10
+Example: Napoleon Bonaparte Buford guess= drug  gold= confidence=10
+Example: Nasir Khwaja guess= drug  gold= confidence=10
+Example: Nathan Jacobson guess= drug  gold= confidence=10
+Example: Ned Kelly guess= drug  gold= confidence=10
+Example: Nellie Bly guess= drug  gold= confidence=10
+Example: Nick Green guess= drug  gold= confidence=10
+Example: Nicolaus Copernicus guess= drug  gold= confidence=10
+Example: Nicolaus Fuss guess= drug  gold= confidence=10
+Example: Niels Henrik Abels guess= drug  gold= confidence=10
+Example: Nikolay Nikolaevich Semenov guess= drug  gold= confidence=10
+Example: Norman E. Thagard guess= drug  gold= confidence=10
+Example: Norman H. Schwarzkopf guess= drug  gold= confidence=10
+Example: Olavi Paavolainen guess= drug  gold= confidence=10
+Example: Oleksandr Sharkovsky guess= drug  gold= confidence=10
+Example: Olga Cordero guess= drug  gold= confidence=10
+Example: Oliver O. Howard guess= drug  gold= confidence=10
+Example: Omar Khayyam guess= drug  gold= confidence=10
+Example: Oronce Fine guess= drug  gold= confidence=10
+Example: Osborne Reynolds guess= drug  gold= confidence=10
+Example: Otto Graham guess= drug  gold= confidence=10
+Example: Otto Manninen guess= drug  gold= confidence=10
+Example: Otto Szász guess= drug  gold= confidence=10
+Example: Pamela A. Melroy guess= drug  gold= confidence=10
+Example: Paolo Ruffini guess= drug  gold= confidence=10
+Example: Paschal II guess= drug  gold= confidence=10
+Example: Patricia Cornwell guess= drug  gold= confidence=10
+Example: Patricia Ryan Nixon guess= drug  gold= confidence=10
+Example: Paul Barbarin guess= drug  gold= confidence=10
+Example: Paul Cézanne guess= drug  gold= confidence=10
+Example: Paul II guess= drug  gold= confidence=10
+Example: Paul Newman guess= drug  gold= confidence=10
+Example: Paul Signac guess= drug  gold= confidence=10
+Example: Pauline Frederick guess= drug  gold= confidence=10
+Example: Penny Okamoto guess= drug  gold= confidence=10
+Example: Peter J. K. Wisoff guess= drug  gold= confidence=10
+Example: Petrus Josephus Wilhelmus Debye guess= drug  gold= confidence=10
+Example: Phidias guess= drug  gold= confidence=10
+Example: Pierre Gassendi guess= drug  gold= confidence=10
+Example: Pierre Hérigone guess= drug  gold= confidence=10
+Example: Pierre Léon Boutroux guess= drug  gold= confidence=10
+Example: Pierre Wantzel guess= drug  gold= confidence=10
+Example: Pierre de Maupertuis guess= drug  gold= confidence=10
+Example: Piers Bohl guess= drug  gold= confidence=10
+Example: Piers J. Sellers guess= drug  gold= confidence=10
+Example: Pius XII guess= drug  gold= confidence=10
+Example: Plotinus guess= drug  gold= confidence=10
+Example: Prince Rupprecht guess= drug  gold= confidence=10
+Example: Proclus Diadochus guess= drug  gold= confidence=10
+Example: Ptolemy guess= drug  gold= confidence=10
+Example: Rachel Robinson guess= drug  gold= confidence=10
+Example: Ralph Waldo Emerson guess= drug  gold= confidence=10
+Example: Ramlah bint Abi Sufyan guess= drug  gold= confidence=10
+Example: Ray Kroc guess= drug  gold= confidence=10
+Example: Ray Schalk guess= drug  gold= confidence=10
+Example: René Thom guess= drug  gold= confidence=10
+Example: René de Sluze guess= drug  gold= confidence=10
+Example: Richard C. Holbrooke guess= drug  gold= confidence=10
+Example: Richard I guess= drug  gold= confidence=10
+Example: Richard M. Linnehan guess= drug  gold= confidence=10
+Example: Richard R. Ernst guess= drug  gold= confidence=10
+Example: Richard W. Riley guess= drug  gold= confidence=10
+Example: Richard Yates guess= drug  gold= confidence=10
+Example: Robert Bárány guess= drug  gold= confidence=10
+Example: Robert Coffin guess= drug  gold= confidence=10
+Example: Robert D. Cabana guess= drug  gold= confidence=10
+Example: Robert Duvall guess= drug  gold= confidence=10
+Example: Robert O'Hara Burke guess= drug  gold= confidence=10
+Example: Robert Pilatus guess= drug  gold= confidence=10
+Example: Robert Recorde guess= drug  gold= confidence=10
+Example: Roger Bresnahan guess= drug  gold= confidence=10
+Example: Rogers Hornsby guess= drug  gold= confidence=10
+Example: Rolf M. Zinkernagel guess= drug  gold= confidence=10
+Example: Ronald E. McNair guess= drug  gold= confidence=10
+Example: Roussou, guess= drug  gold= confidence=10
+Example: Roy Rogers guess= drug  gold= confidence=10
+Example: Rumaysa bint Milhan guess= drug  gold= confidence=10
+Example: Ruth Moufang guess= drug  gold= confidence=10
+Example: Sam Walton guess= drug  gold= confidence=10
+Example: Samuil Shatunovsky guess= drug  gold= confidence=10
+Example: Schack August Steenberg Krogh Krogh guess= drug  gold= confidence=10
+Example: Sergius IV guess= drug  gold= confidence=10
+Example: Severo Ochoa guess= drug  gold= confidence=10
+Example: Sharon Christa McAuliffe guess= drug  gold= confidence=10
+Example: Sidney Bechet guess= drug  gold= confidence=10
+Example: Simon Lhuilier guess= drug  gold= confidence=10
+Example: Simone Martini guess= drug  gold= confidence=10
+Example: Sir Alexander Fleming guess= drug  gold= confidence=10
+Example: Sir Arthur Harden guess= drug  gold= confidence=10
+Example: Sir Christopher Wren guess= drug  gold= confidence=10
+Example: Sir Hans Adolf Krebs guess= drug  gold= confidence=10
+Example: Sir Henry Hallett Dale guess= drug  gold= confidence=10
+Example: Sir James Jeans guess= drug  gold= confidence=10
+Example: Sir John Warcup Cornforth guess= drug  gold= confidence=10
+Example: Sir Ronald Ross guess= drug  gold= confidence=10
+Example: Solomon Lefschetz guess= drug  gold= confidence=10
+Example: St. Celestine I guess= drug  gold= confidence=10
+Example: St. Hyginus guess= drug  gold= confidence=10
+Example: St. Martin I guess= drug  gold= confidence=10
+Example: St. Thomas Aquinas guess= drug  gold= confidence=10
+Example: St. Zosimus guess= drug  gold= confidence=10
+Example: Stanislaw M. Ulam guess= drug  gold= confidence=10
+Example: Stanislaw Mazur guess= drug  gold= confidence=10
+Example: Stanley Kubrick guess= drug  gold= confidence=10
+Example: Steve Buscemi guess= drug  gold= confidence=10
+Example: Stieg Trenter guess= drug  gold= confidence=10
+Example: Susumu Tonegaw guess= drug  gold= confidence=10
+Example: Tartaglia guess= drug  gold= confidence=10
+Example: Thabit ibn Qays guess= drug  gold= confidence=10
+Example: Thales guess= drug  gold= confidence=10
+Example: Thales of Miletus guess= drug  gold= confidence=10
+Example: Thanatos guess= drug  gold= confidence=10
+Example: Theodor Reye guess= drug  gold= confidence=10
+Example: Theodosius of Bithynia guess= drug  gold= confidence=10
+Example: Thomas Carey guess= drug  gold= confidence=10
+Example: Thomas Digges guess= drug  gold= confidence=10
+Example: Thomas Edward Lawrence guess= drug  gold= confidence=10
+Example: Thomas Heatherington guess= drug  gold= confidence=10
+Example: Thomas Ward Custer guess= drug  gold= confidence=10
+Example: Tobey Maguire guess= drug  gold= confidence=10
+Example: Tojo Hideki guess= drug  gold= confidence=10
+Example: Tom Hanks guess= drug  gold= confidence=10
+Example: Tommaso Boggio guess= drug  gold= confidence=10
+Example: Tristan & Isolde guess= drug  gold= confidence=10
+Example: Tutankhamen guess= drug  gold= confidence=10
+Example: Ulysses Simpson Grant guess= drug  gold= confidence=10
+Example: Vaughan Jones guess= drug  gold= confidence=10
+Example: Vigdis Finnbogadottir guess= drug  gold= confidence=10
+Example: Vilhelm Bjerknes guess= drug  gold= confidence=10
+Example: Viscount Goderich guess= drug  gold= confidence=10
+Example: Wendy O.williams guess= drug  gold= confidence=10
+Example: Wild Bill Hickok guess= drug  gold= confidence=10
+Example: Wilhelm Wirtinger guess= drug  gold= confidence=10
+Example: William Buckland guess= drug  gold= confidence=10
+Example: William Burnside guess= drug  gold= confidence=10
+Example: William Butler Yeats guess= drug  gold= confidence=10
+Example: William Clifford guess= drug  gold= confidence=10
+Example: William D. Phillips guess= drug  gold= confidence=10
+Example: William Gladstone guess= drug  gold= confidence=10
+Example: William Hamilton guess= drug  gold= confidence=10
+Example: William Howard Taft guess= drug  gold= confidence=10
+Example: William Rankine guess= drug  gold= confidence=10
+Example: William Rothenstein guess= drug  gold= confidence=10
+Example: William Tecumseh Sherman guess= drug  gold= confidence=10
+Example: William Whiston guess= drug  gold= confidence=10
+Example: William Winstanley guess= drug  gold= confidence=10
+Example: Willis Carrier guess= drug  gold= confidence=10
+Example: Yaroslav Lopatynsky guess= drug  gold= confidence=10
+Example: Yates Frank guess= drug  gold= confidence=10
+Example: Yudell Luke guess= drug  gold= confidence=10
+Example: Yulian-Karl Sokhotsky guess= drug  gold= confidence=10
+Example: Zacharie Astruc guess= drug  gold= confidence=10
+Example: ibn Sina guess= drug  gold= confidence=10
+Example: Aberdare guess= drug  gold= confidence=10
+Example: Aberdyfi guess= drug  gold= confidence=10
+Example: Ahlen guess= drug  gold= confidence=10
+Example: Algajola guess= drug  gold= confidence=10
+Example: Allogny guess= drug  gold= confidence=10
+Example: Alphen guess= drug  gold= confidence=10
+Example: Altnaharra guess= drug  gold= confidence=10
+Example: Ambonnay guess= drug  gold= confidence=10
+Example: Arbois guess= drug  gold= confidence=10
+Example: Arcadia guess= drug  gold= confidence=10
+Example: Arkansas guess= drug  gold= confidence=10
+Example: Armthorpe guess= drug  gold= confidence=10
+Example: Arnhem guess= drug  gold= confidence=10
+Example: Ashwell guess= drug  gold= confidence=10
+Example: Auvillar guess= drug  gold= confidence=10
+Example: Baarn guess= drug  gold= confidence=10
+Example: Bad Bentheim guess= drug  gold= confidence=10
+Example: Baden-Wuerttemberg guess= drug  gold= confidence=10
+Example: Bagshot guess= drug  gold= confidence=10
+Example: Ballymena guess= drug  gold= confidence=10
+Example: Balsall Common guess= drug  gold= confidence=10
+Example: Bangor (Wales) guess= drug  gold= confidence=10
+Example: Barjac guess= drug  gold= confidence=10
+Example: Barking and Dagenham guess= drug  gold= confidence=10
+Example: Barmouth guess= drug  gold= confidence=10
+Example: Barnard Castle guess= drug  gold= confidence=10
+Example: Barrack Heights guess= drug  gold= confidence=10
+Example: Baud guess= drug  gold= confidence=10
+Example: Beers guess= drug  gold= confidence=10
+Example: Belfield guess= drug  gold= confidence=10
+Example: Bellangry guess= drug  gold= confidence=10
+Example: Berrima guess= drug  gold= confidence=10
+Example: Betws-y-Coed guess= drug  gold= confidence=10
+Example: Bexhill-on-Sea guess= drug  gold= confidence=10
+Example: Biberach guess= drug  gold= confidence=10
+Example: Bibury guess= drug  gold= confidence=10
+Example: Bierton guess= drug  gold= confidence=10
+Example: Billericay guess= drug  gold= confidence=10
+Example: Bishopton guess= drug  gold= confidence=10
+Example: Blackburn (Lancs.) guess= drug  gold= confidence=10
+Example: Blackwater guess= drug  gold= confidence=10
+Example: Bollington guess= drug  gold= confidence=10
+Example: Bondi Junction guess= drug  gold= confidence=10
+Example: Bopfingen guess= drug  gold= confidence=10
+Example: Borley guess= drug  gold= confidence=10
+Example: Bosnia and Herzegovina guess= drug  gold= confidence=10
+Example: Bournemouth guess= drug  gold= confidence=10
+Example: Bradford guess= drug  gold= confidence=10
+Example: Branston (Leicestershire) guess= drug  gold= confidence=10
+Example: Bridgwater guess= drug  gold= confidence=10
+Example: Brighouse guess= drug  gold= confidence=10
+Example: Brixham guess= drug  gold= confidence=10
+Example: Bude guess= drug  gold= confidence=10
+Example: Budleigh Salterton guess= drug  gold= confidence=10
+Example: Bulgaria guess= drug  gold= confidence=10
+Example: Bungwahl guess= drug  gold= confidence=10
+Example: Bunnik guess= drug  gold= confidence=10
+Example: Burgh Heath guess= drug  gold= confidence=10
+Example: Burgundy guess= drug  gold= confidence=10
+Example: Bury St. Edmunds guess= drug  gold= confidence=10
+Example: Busby guess= drug  gold= confidence=10
+Example: Butzbach guess= drug  gold= confidence=10
+Example: Cambodia guess= drug  gold= confidence=10
+Example: Camperdown guess= drug  gold= confidence=10
+Example: Canvey Island guess= drug  gold= confidence=10
+Example: Carnoux-en-Provence guess= drug  gold= confidence=10
+Example: Castlederg guess= drug  gold= confidence=10
+Example: Castleford guess= drug  gold= confidence=10
+Example: Ceres guess= drug  gold= confidence=10
+Example: Cestas guess= drug  gold= confidence=10
+Example: Challacombe guess= drug  gold= confidence=10
+Example: Charlwood guess= drug  gold= confidence=10
+Example: Chatsworth guess= drug  gold= confidence=10
+Example: Checkendon guess= drug  gold= confidence=10
+Example: Cheltenham guess= drug  gold= confidence=10
+Example: Chesham guess= drug  gold= confidence=10
+Example: Chessington guess= drug  gold= confidence=10
+Example: Chilton (Durham) guess= drug  gold= confidence=10
+Example: Chipping guess= drug  gold= confidence=10
+Example: Chorley guess= drug  gold= confidence=10
+Example: Chorleywood guess= drug  gold= confidence=10
+Example: Churchdown guess= drug  gold= confidence=10
+Example: Clare guess= drug  gold= confidence=10
+Example: Claye-Souilly guess= drug  gold= confidence=10
+Example: Cleckheaton guess= drug  gold= confidence=10
+Example: Cogolin guess= drug  gold= confidence=10
+Example: Colmar guess= drug  gold= confidence=10
+Example: Colorado guess= drug  gold= confidence=10
+Example: Condom guess= drug  gold= confidence=10
+Example: Contamines-Montjoie guess= drug  gold= confidence=10
+Example: Cookham guess= drug  gold= confidence=10
+Example: Coolongolook guess= drug  gold= confidence=10
+Example: Cooranbong guess= drug  gold= confidence=10
+Example: Corris guess= drug  gold= confidence=10
+Example: Corte guess= drug  gold= confidence=10
+Example: Courbevoie guess= drug  gold= confidence=10
+Example: Coverack guess= drug  gold= confidence=10
+Example: Craigavon guess= drug  gold= confidence=10
+Example: Crawley guess= drug  gold= confidence=10
+Example: Crediton guess= drug  gold= confidence=10
+Example: Crillon le Brave guess= drug  gold= confidence=10
+Example: Crowhurst guess= drug  gold= confidence=10
+Example: Crowthorne guess= drug  gold= confidence=10
+Example: Cudal guess= drug  gold= confidence=10
+Example: Deal guess= drug  gold= confidence=10
+Example: Denby Dale guess= drug  gold= confidence=10
+Example: Derry guess= drug  gold= confidence=10
+Example: Dewsbury guess= drug  gold= confidence=10
+Example: Diss guess= drug  gold= confidence=10
+Example: Dodewaard guess= drug  gold= confidence=10
+Example: Dorking guess= drug  gold= confidence=10
+Example: Downpatrick guess= drug  gold= confidence=10
+Example: Driebergen guess= drug  gold= confidence=10
+Example: Dromore guess= drug  gold= confidence=10
+Example: Dulverton guess= drug  gold= confidence=10
+Example: Dunblane guess= drug  gold= confidence=10
+Example: Dunchurch guess= drug  gold= confidence=10
+Example: Dunoon guess= drug  gold= confidence=10
+Example: Dunstable guess= drug  gold= confidence=10
+Example: Dural guess= drug  gold= confidence=10
+Example: Durham guess= drug  gold= confidence=10
+Example: Durrington guess= drug  gold= confidence=10
+Example: Edgeworth guess= drug  gold= confidence=10
+Example: Ediger guess= drug  gold= confidence=10
+Example: Eisenberg guess= drug  gold= confidence=10
+Example: Elanora Heights guess= drug  gold= confidence=10
+Example: Enspijk guess= drug  gold= confidence=10
+Example: Epping guess= drug  gold= confidence=10
+Example: Erkrath guess= drug  gold= confidence=10
+Example: Eversley guess= drug  gold= confidence=10
+Example: Evesham guess= drug  gold= confidence=10
+Example: Exeter guess= drug  gold= confidence=10
+Example: Eyemouth guess= drug  gold= confidence=10
+Example: Fajardo guess= drug  gold= confidence=10
+Example: Faversham guess= drug  gold= confidence=10
+Example: Faygate guess= drug  gold= confidence=10
+Example: Five Dock guess= drug  gold= confidence=10
+Example: Flaxton guess= drug  gold= confidence=10
+Example: Florence Court guess= drug  gold= confidence=10
+Example: Forbes guess= drug  gold= confidence=10
+Example: Fources guess= drug  gold= confidence=10
+Example: Freising guess= drug  gold= confidence=10
+Example: Friesthorpe guess= drug  gold= confidence=10
+Example: Fritzlar guess= drug  gold= confidence=10
+Example: Garsington guess= drug  gold= confidence=10
+Example: Gartocharn guess= drug  gold= confidence=10
+Example: Gateshead guess= drug  gold= confidence=10
+Example: Gesté guess= drug  gold= confidence=10
+Example: Giethoorn guess= drug  gold= confidence=10
+Example: Girraween guess= drug  gold= confidence=10
+Example: Gissing guess= drug  gold= confidence=10
+Example: Glengormley guess= drug  gold= confidence=10
+Example: Glenorie guess= drug  gold= confidence=10
+Example: Goffs Oak guess= drug  gold= confidence=10
+Example: Gosford guess= drug  gold= confidence=10
+Example: Gosforth (Cumbria) guess= drug  gold= confidence=10
+Example: Grange-over-Sands guess= drug  gold= confidence=10
+Example: Grans guess= drug  gold= confidence=10
+Example: Great Bookham guess= drug  gold= confidence=10
+Example: Green Point guess= drug  gold= confidence=10
+Example: Gross-Gerau guess= drug  gold= confidence=10
+Example: Gunning guess= drug  gold= confidence=10
+Example: Haaren guess= drug  gold= confidence=10
+Example: Haberfield guess= drug  gold= confidence=10
+Example: Haguenau guess= drug  gold= confidence=10
+Example: Halfweg guess= drug  gold= confidence=10
+Example: Handforth guess= drug  gold= confidence=10
+Example: Hannoversch Münden guess= drug  gold= confidence=10
+Example: Harlingen guess= drug  gold= confidence=10
+Example: Harwich guess= drug  gold= confidence=10
+Example: Havant guess= drug  gold= confidence=10
+Example: Hawaii guess= drug  gold= confidence=10
+Example: Hawarden guess= drug  gold= confidence=10
+Example: Hawick guess= drug  gold= confidence=10
+Example: Haybes guess= drug  gold= confidence=10
+Example: Heathfield (Devon) guess= drug  gold= confidence=10
+Example: Hechingen guess= drug  gold= confidence=10
+Example: Heddon-on-the-Wall guess= drug  gold= confidence=10
+Example: Heidelberg guess= drug  gold= confidence=10
+Example: Heidenheim guess= drug  gold= confidence=10
+Example: Helston guess= drug  gold= confidence=10
+Example: Hemyock guess= drug  gold= confidence=10
+Example: Hexham guess= drug  gold= confidence=10
+Example: High Halstow guess= drug  gold= confidence=10
+Example: Hilcote guess= drug  gold= confidence=10
+Example: Hof guess= drug  gold= confidence=10
+Example: Hoo St. Werburgh guess= drug  gold= confidence=10
+Example: Horncastle guess= drug  gold= confidence=10
+Example: Hornsby guess= drug  gold= confidence=10
+Example: Houilles guess= drug  gold= confidence=10
+Example: Huntly guess= drug  gold= confidence=10
+Example: Husborne Crawley guess= drug  gold= confidence=10
+Example: India guess= drug  gold= confidence=10
+Example: Irchester guess= drug  gold= confidence=10
+Example: Issigeac guess= drug  gold= confidence=10
+Example: Ivanovo guess= drug  gold= confidence=10
+Example: Jarrow guess= drug  gold= confidence=10
+Example: John o' Groats guess= drug  gold= confidence=10
+Example: Joyeuse guess= drug  gold= confidence=10
+Example: Julianadorp aan Zee guess= drug  gold= confidence=10
+Example: Keighley guess= drug  gold= confidence=10
+Example: Kineton guess= drug  gold= confidence=10
+Example: King's Lynn guess= drug  gold= confidence=10
+Example: Kingsford guess= drug  gold= confidence=10
+Example: Kingsteignton guess= drug  gold= confidence=10
+Example: Kinnersley guess= drug  gold= confidence=10
+Example: Kintore guess= drug  gold= confidence=10
+Example: Kirknewton guess= drug  gold= confidence=10
+Example: Knightswood guess= drug  gold= confidence=10
+Example: Krefeld guess= drug  gold= confidence=10
+Example: La Grave guess= drug  gold= confidence=10
+Example: La Trinité-sur-Mer guess= drug  gold= confidence=10
+Example: Labège guess= drug  gold= confidence=10
+Example: Lahr guess= drug  gold= confidence=10
+Example: Lancaster guess= drug  gold= confidence=10
+Example: Lapworth guess= drug  gold= confidence=10
+Example: Larkhall guess= drug  gold= confidence=10
+Example: Lealholm guess= drug  gold= confidence=10
+Example: Lelystad guess= drug  gold= confidence=10
+Example: Lemmer guess= drug  gold= confidence=10
+Example: Les Sables-d'Olonne guess= drug  gold= confidence=10
+Example: Les Saisies guess= drug  gold= confidence=10
+Example: Libya guess= drug  gold= confidence=10
+Example: Liechtenstein guess= drug  gold= confidence=10
+Example: Limpsfield guess= drug  gold= confidence=10
+Example: Linlithgow guess= drug  gold= confidence=10
+Example: Little Haywood guess= drug  gold= confidence=10
+Example: Llanfyllin guess= drug  gold= confidence=10
+Example: Llangollen guess= drug  gold= confidence=10
+Example: Llanrug guess= drug  gold= confidence=10
+Example: Lochearnhead guess= drug  gold= confidence=10
+Example: Lochem guess= drug  gold= confidence=10
+Example: Lohfelden guess= drug  gold= confidence=10
+Example: Lorraine guess= drug  gold= confidence=10
+Example: Lowdham guess= drug  gold= confidence=10
+Example: Lydd guess= drug  gold= confidence=10
+Example: Lyon guess= drug  gold= confidence=10
+Example: Lytham St. Anne's guess= drug  gold= confidence=10
+Example: Madingley guess= drug  gold= confidence=10
+Example: Malawi guess= drug  gold= confidence=10
+Example: Mali guess= drug  gold= confidence=10
+Example: Mandelieu la Napoule guess= drug  gold= confidence=10
+Example: Manly guess= drug  gold= confidence=10
+Example: Marazion guess= drug  gold= confidence=10
+Example: Market Drayton guess= drug  gold= confidence=10
+Example: Marl guess= drug  gold= confidence=10
+Example: Marlenheim guess= drug  gold= confidence=10
+Example: Melrose guess= drug  gold= confidence=10
+Example: Menerbes guess= drug  gold= confidence=10
+Example: Mettlach guess= drug  gold= confidence=10
+Example: Mijoux guess= drug  gold= confidence=10
+Example: Milton of Campsie guess= drug  gold= confidence=10
+Example: Monschau guess= drug  gold= confidence=10
+Example: Montmorency guess= drug  gold= confidence=10
+Example: Montrouge guess= drug  gold= confidence=10
+Example: Moretonhampstead guess= drug  gold= confidence=10
+Example: Morley guess= drug  gold= confidence=10
+Example: Mortdale guess= drug  gold= confidence=10
+Example: Mount Vincent guess= drug  gold= confidence=10
+Example: Mousehole guess= drug  gold= confidence=10
+Example: Muir of Ord guess= drug  gold= confidence=10
+Example: Murmansk guess= drug  gold= confidence=10
+Example: Myanmar guess= drug  gold= confidence=10
+Example: Münster guess= drug  gold= confidence=10
+Example: Najac guess= drug  gold= confidence=10
+Example: Nancy guess= drug  gold= confidence=10
+Example: Naphill guess= drug  gold= confidence=10
+Example: Narberth guess= drug  gold= confidence=10
+Example: Narromine guess= drug  gold= confidence=10
+Example: New Haw guess= drug  gold= confidence=10
+Example: New Milton guess= drug  gold= confidence=10
+Example: Newbridge on Wye guess= drug  gold= confidence=10
+Example: Newport-on-Tay guess= drug  gold= confidence=10
+Example: Niebüll guess= drug  gold= confidence=10
+Example: Nord-Pas-de-Calais guess= drug  gold= confidence=10
+Example: North Baddesley guess= drug  gold= confidence=10
+Example: North Carolina guess= drug  gold= confidence=10
+Example: Novgorod guess= drug  gold= confidence=10
+Example: Nowra guess= drug  gold= confidence=10
+Example: Nyngan guess= drug  gold= confidence=10
+Example: Nyons guess= drug  gold= confidence=10
+Example: Oadby guess= drug  gold= confidence=10
+Example: Obernai guess= drug  gold= confidence=10
+Example: Old Warden guess= drug  gold= confidence=10
+Example: Oldbury guess= drug  gold= confidence=10
+Example: Omsk guess= drug  gold= confidence=10
+Example: Orpington guess= drug  gold= confidence=10
+Example: Oundle guess= drug  gold= confidence=10
+Example: Papendrecht guess= drug  gold= confidence=10
+Example: Paris guess= drug  gold= confidence=10
+Example: Paterson guess= drug  gold= confidence=10
+Example: Pattensen guess= drug  gold= confidence=10
+Example: Peebles guess= drug  gold= confidence=10
+Example: Pembrey guess= drug  gold= confidence=10
+Example: Penarth guess= drug  gold= confidence=10
+Example: Pendle Hill guess= drug  gold= confidence=10
+Example: Penzance guess= drug  gold= confidence=10
+Example: Perm guess= drug  gold= confidence=10
+Example: Pewsey guess= drug  gold= confidence=10
+Example: Picton guess= drug  gold= confidence=10
+Example: Pleasure Point guess= drug  gold= confidence=10
+Example: Poitiers guess= drug  gold= confidence=10
+Example: Ponce guess= drug  gold= confidence=10
+Example: Pontefract guess= drug  gold= confidence=10
+Example: Port Kembla guess= drug  gold= confidence=10
+Example: Portglenone guess= drug  gold= confidence=10
+Example: Porthcawl guess= drug  gold= confidence=10
+Example: Potsdam guess= drug  gold= confidence=10
+Example: Prescot guess= drug  gold= confidence=10
+Example: Puddletown guess= drug  gold= confidence=10
+Example: Purmerend guess= drug  gold= confidence=10
+Example: Quirindi guess= drug  gold= confidence=10
+Example: Rainham (Greater London) guess= drug  gold= confidence=10
+Example: Ratingen guess= drug  gold= confidence=10
+Example: Redfern guess= drug  gold= confidence=10
+Example: Reigate guess= drug  gold= confidence=10
+Example: Reims guess= drug  gold= confidence=10
+Example: Remseck guess= drug  gold= confidence=10
+Example: Rennes-le-Château guess= drug  gold= confidence=10
+Example: Reston guess= drug  gold= confidence=10
+Example: Reutlingen guess= drug  gold= confidence=10
+Example: Revesby guess= drug  gold= confidence=10
+Example: Reynoldston guess= drug  gold= confidence=10
+Example: Rhode Island guess= drug  gold= confidence=10
+Example: Rhyl guess= drug  gold= confidence=10
+Example: Riesa guess= drug  gold= confidence=10
+Example: Rio Blanco guess= drug  gold= confidence=10
+Example: Rio Piedras guess= drug  gold= confidence=10
+Example: Riverside Park guess= drug  gold= confidence=10
+Example: Rochdale guess= drug  gold= confidence=10
+Example: Rooty Hill guess= drug  gold= confidence=10
+Example: Rosmalen guess= drug  gold= confidence=10
+Example: Rothenburg ob der Tauber guess= drug  gold= confidence=10
+Example: Rotherwick guess= drug  gold= confidence=10
+Example: Rylstone guess= drug  gold= confidence=10
+Example: Saint Vincent and The Grenadines guess= drug  gold= confidence=10
+Example: Saint-Denis guess= drug  gold= confidence=10
+Example: Saint-Gilles-Croix-de-Vie guess= drug  gold= confidence=10
+Example: Saint-Maur-des-Fossés guess= drug  gold= confidence=10
+Example: Saint-Porchaire guess= drug  gold= confidence=10
+Example: Salzhemmendorf guess= drug  gold= confidence=10
+Example: Samara guess= drug  gold= confidence=10
+Example: Sao Tome and Principe guess= drug  gold= confidence=10
+Example: Sausset-Les-Pins guess= drug  gold= confidence=10
+Example: Schleswig-Holstein guess= drug  gold= confidence=10
+Example: Schrobenhausen guess= drug  gold= confidence=10
+Example: Schwelm guess= drug  gold= confidence=10
+Example: Schönaich guess= drug  gold= confidence=10
+Example: Scone guess= drug  gold= confidence=10
+Example: Seaham guess= drug  gold= confidence=10
+Example: Sens guess= drug  gold= confidence=10
+Example: Seychelles guess= drug  gold= confidence=10
+Example: Shipston on Stour guess= drug  gold= confidence=10
+Example: Skipton guess= drug  gold= confidence=10
+Example: Sockbridge guess= drug  gold= confidence=10
+Example: Solomon Islands guess= drug  gold= confidence=10
+Example: South Stoke guess= drug  gold= confidence=10
+Example: Southwark guess= drug  gold= confidence=10
+Example: Spean Bridge guess= drug  gold= confidence=10
+Example: Spennymoor guess= drug  gold= confidence=10
+Example: Sprang-Capelle guess= drug  gold= confidence=10
+Example: St. Andrews guess= drug  gold= confidence=10
+Example: Stadskanaal guess= drug  gold= confidence=10
+Example: Staunton guess= drug  gold= confidence=10
+Example: Staveley guess= drug  gold= confidence=10
+Example: Stolberg guess= drug  gold= confidence=10
+Example: Strabane guess= drug  gold= confidence=10
+Example: Strasbourg guess= drug  gold= confidence=10
+Example: Strijen guess= drug  gold= confidence=10
+Example: Suhl guess= drug  gold= confidence=10
+Example: Sutton-on-Hull guess= drug  gold= confidence=10
+Example: Swaffham Bulbeck guess= drug  gold= confidence=10
+Example: Sézanne guess= drug  gold= confidence=10
+Example: Tadcaster guess= drug  gold= confidence=10
+Example: Taiwan guess= drug  gold= confidence=10
+Example: Talbot Green guess= drug  gold= confidence=10
+Example: Terrigal guess= drug  gold= confidence=10
+Example: Thornton (Lancashire) guess= drug  gold= confidence=10
+Example: Tiverton guess= drug  gold= confidence=10
+Example: Todmorden guess= drug  gold= confidence=10
+Example: Tollesbury guess= drug  gold= confidence=10
+Example: Tomsk guess= drug  gold= confidence=10
+Example: Toowoon Bay guess= drug  gold= confidence=10
+Example: Travemünde guess= drug  gold= confidence=10
+Example: Trinidad and Tobago guess= drug  gold= confidence=10
+Example: Turrella guess= drug  gold= confidence=10
+Example: Tuvalu guess= drug  gold= confidence=10
+Example: Twente guess= drug  gold= confidence=10
+Example: Uithoorn guess= drug  gold= confidence=10
+Example: Upminster guess= drug  gold= confidence=10
+Example: Upper Bucklebury guess= drug  gold= confidence=10
+Example: Usk guess= drug  gold= confidence=10
+Example: Val-Thorens guess= drug  gold= confidence=10
+Example: Valence guess= drug  gold= confidence=10
+Example: Vallery guess= drug  gold= confidence=10
+Example: Vauvert guess= drug  gold= confidence=10
+Example: Ventabren guess= drug  gold= confidence=10
+Example: Vietnam guess= drug  gold= confidence=10
+Example: Villeneuve guess= drug  gold= confidence=10
+Example: Vouziers guess= drug  gold= confidence=10
+Example: Wadhurst guess= drug  gold= confidence=10
+Example: Walcha guess= drug  gold= confidence=10
+Example: Waldbronn guess= drug  gold= confidence=10
+Example: Wallasey guess= drug  gold= confidence=10
+Example: Waltham Abbey guess= drug  gold= confidence=10
+Example: Waltham Cross guess= drug  gold= confidence=10
+Example: Waratah guess= drug  gold= confidence=10
+Example: Warlingham guess= drug  gold= confidence=10
+Example: Warminster guess= drug  gold= confidence=10
+Example: Warners Bay guess= drug  gold= confidence=10
+Example: Weesp guess= drug  gold= confidence=10
+Example: Weiden guess= drug  gold= confidence=10
+Example: Wellington guess= drug  gold= confidence=10
+Example: Welshpool guess= drug  gold= confidence=10
+Example: Wentworth guess= drug  gold= confidence=10
+Example: West Wickham guess= drug  gold= confidence=10
+Example: Westerham guess= drug  gold= confidence=10
+Example: Westhumble guess= drug  gold= confidence=10
+Example: Westward Ho! guess= drug  gold= confidence=10
+Example: Weybridge guess= drug  gold= confidence=10
+Example: Whitby guess= drug  gold= confidence=10
+Example: Whitchurch (Hamp.) guess= drug  gold= confidence=10
+Example: Whittington guess= drug  gold= confidence=10
+Example: Wickford guess= drug  gold= confidence=10
+Example: Wilcannia guess= drug  gold= confidence=10
+Example: Willingham guess= drug  gold= confidence=10
+Example: Winchelsea guess= drug  gold= confidence=10
+Example: Wisbech guess= drug  gold= confidence=10
+Example: Wittstock guess= drug  gold= confidence=10
+Example: Wollombi guess= drug  gold= confidence=10
+Example: Wooburn Green guess= drug  gold= confidence=10
+Example: Woodchester guess= drug  gold= confidence=10
+Example: Wormley guess= drug  gold= confidence=10
+Example: Wrightington Bar guess= drug  gold= confidence=10
+Example: Yemen guess= drug  gold= confidence=10
+Example: Zeeland guess= drug  gold= confidence=10
+Example: Zhukovsky guess= drug  gold= confidence=10
+Example: 'N Sync: 'Ntimate Holiday Special guess= drug  gold= confidence=10
+Example: 'N Sync: Live From Madison Square Garden guess= drug  gold= confidence=10
+Example: 0.12h guess= drug  gold= confidence=10
+Example: 007 Racing guess= drug  gold= confidence=10
+Example: 101 Rent Boys guess= drug  gold= confidence=10
+Example: 11th & Congress guess= drug  gold= confidence=10
+Example: 1900 USA guess= drug  gold= confidence=10
+Example: 2000 + 1 stigmes guess= drug  gold= confidence=10
+Example: 24fps guess= drug  gold= confidence=10
+Example: 3 Strikes guess= drug  gold= confidence=10
+Example: 3-D Safari guess= drug  gold= confidence=10
+Example: 405 guess= drug  gold= confidence=10
+Example: 41 Shots guess= drug  gold= confidence=10
+Example: 50CC guess= drug  gold= confidence=10
+Example: 9-Ball guess= drug  gold= confidence=10
+Example: A Festa de Margarette guess= drug  gold= confidence=10
+Example: A Hora Marcada guess= drug  gold= confidence=10
+Example: A Killing Frost guess= drug  gold= confidence=10
+Example: A Question of Faith guess= drug  gold= confidence=10
+Example: A Visit from the Sergeant Major with Unintended Consequences guess= drug  gold= confidence=10
+Example: AFI's 100 Years, 100 Laughs: America's Funniest Movies guess= drug  gold= confidence=10
+Example: Accidental Detective guess= drug  gold= confidence=10
+Example: Achter gesloten ogen guess= drug  gold= confidence=10
+Example: Acts of Worship guess= drug  gold= confidence=10
+Example: Adventures in Wild California guess= drug  gold= confidence=10
+Example: Aeon - Countdown im All guess= drug  gold= confidence=10
+Example: Aerines siopes guess= drug  gold= confidence=10
+Example: After the Reconciliation guess= drug  gold= confidence=10
+Example: Aisha guess= drug  gold= confidence=10
+Example: Aitanic guess= drug  gold= confidence=10
+Example: Ajax: De film guess= drug  gold= confidence=10
+Example: Alice guess= drug  gold= confidence=10
+Example: All You Can Eat Pharmacy guess= drug  gold= confidence=10
+Example: Almost Blue guess= drug  gold= confidence=10
+Example: Amazon guess= drug  gold= confidence=10
+Example: Amigos X siempre guess= drug  gold= confidence=10
+Example: Amor, curiosidad, Prozac y dudas guess= drug  gold= confidence=10
+Example: Amélia guess= drug  gold= confidence=10
+Example: An American Tail: The Treasure of Manhattan Island guess= drug  gold= confidence=10
+Example: An Extremely Goofy Movie guess= drug  gold= confidence=10
+Example: An Intimate Friendship guess= drug  gold= confidence=10
+Example: An Unkindness of Ravens guess= drug  gold= confidence=10
+Example: Anak guess= drug  gold= confidence=10
+Example: Anatomy of Disgust guess= drug  gold= confidence=10
+Example: Andel Exit guess= drug  gold= confidence=10
+Example: Andrew Dice Clay: Banned for Life guess= drug  gold= confidence=10
+Example: Angels! guess= drug  gold= confidence=10
+Example: Animated Corpse guess= drug  gold= confidence=10
+Example: Anna guess= drug  gold= confidence=10
+Example: Anna en Corse guess= drug  gold= confidence=10
+Example: Anne 3 guess= drug  gold= confidence=10
+Example: Apartment Hunting guess= drug  gold= confidence=10
+Example: Army Men: World War guess= drug  gold= confidence=10
+Example: Arrest & Trial guess= drug  gold= confidence=10
+Example: Arvokkaasti guess= drug  gold= confidence=10
+Example: As Terças da Bailarina Gorda guess= drug  gold= confidence=10
+Example: Asociación Argentina de actores guess= drug  gold= confidence=10
+Example: Ass Lovers guess= drug  gold= confidence=10
+Example: At Any Cost guess= drug  gold= confidence=10
+Example: At the Height of Summer guess= drug  gold= confidence=10
+Example: Através da Janela guess= drug  gold= confidence=10
+Example: Attack of the Killer Hog guess= drug  gold= confidence=10
+Example: Attention Shoppers guess= drug  gold= confidence=10
+Example: Autsch, du Fröhliche guess= drug  gold= confidence=10
+Example: Autumn in New York guess= drug  gold= confidence=10
+Example: Avalanche Run guess= drug  gold= confidence=10
+Example: Aviature guess= drug  gold= confidence=10
+Example: BWP2 guess= drug  gold= confidence=10
+Example: Babs guess= drug  gold= confidence=10
+Example: Baby Blues guess= drug  gold= confidence=10
+Example: Backyard Dogs guess= drug  gold= confidence=10
+Example: Bad Actors guess= drug  gold= confidence=10
+Example: Bad Boy - Rennen am Äquator guess= drug  gold= confidence=10
+Example: Banditskij Peterburg guess= drug  gold= confidence=10
+Example: Banjo-Tooie guess= drug  gold= confidence=10
+Example: Banqueroute guess= drug  gold= confidence=10
+Example: Barking Dogs Never Bite guess= drug  gold= confidence=10
+Example: Barnard Girls guess= drug  gold= confidence=10
+Example: Battery Park guess= drug  gold= confidence=10
+Example: BattleBots guess= drug  gold= confidence=10
+Example: Battlefield Earth: A Saga for the Year 3000 guess= drug  gold= confidence=10
+Example: Bavandar guess= drug  gold= confidence=10
+Example: Be Cool guess= drug  gold= confidence=10
+Example: Beastie Boys: Video Anthology guess= drug  gold= confidence=10
+Example: Bedazzled guess= drug  gold= confidence=10
+Example: Behind Closed Doors: The Dark Legacy of the Johns Committee guess= drug  gold= confidence=10
+Example: Behind the Scenes: Road to El Dorado guess= drug  gold= confidence=10
+Example: Believe guess= drug  gold= confidence=10
+Example: Bella Block - Schuld und Liebe guess= drug  gold= confidence=10
+Example: Best guess= drug  gold= confidence=10
+Example: Bette guess= drug  gold= confidence=10
+Example: Better Than Sex guess= drug  gold= confidence=10
+Example: Beyond the Ocean guess= drug  gold= confidence=10
+Example: Bhai Thakur guess= drug  gold= confidence=10
+Example: Billet-doux guess= drug  gold= confidence=10
+Example: Bio-Cops guess= drug  gold= confidence=10
+Example: Bla, bla, bla guess= drug  gold= confidence=10
+Example: Black Cocksmokers guess= drug  gold= confidence=10
+Example: Black Panty Chronicals 9 guess= drug  gold= confidence=10
+Example: Black Widow guess= drug  gold= confidence=10
+Example: Blister guess= drug  gold= confidence=10
+Example: Blondine sucht Millionär fürs Leben guess= drug  gold= confidence=10
+Example: Blood guess= drug  gold= confidence=10
+Example: Blue August guess= drug  gold= confidence=10
+Example: Blue End guess= drug  gold= confidence=10
+Example: Blues mrtvého muze guess= drug  gold= confidence=10
+Example: Bombshell guess= drug  gold= confidence=10
+Example: Bone guess= drug  gold= confidence=10
+Example: Bonhoeffer - Die letzte Stufe guess= drug  gold= confidence=10
+Example: Booty Talk 20: Super Fine Sistas! guess= drug  gold= confidence=10
+Example: Boris guess= drug  gold= confidence=10
+Example: Boris e Jeremias guess= drug  gold= confidence=10
+Example: Born to Be King guess= drug  gold= confidence=10
+Example: Brat 2 guess= drug  gold= confidence=10
+Example: Brokeback Mountain guess= drug  gold= confidence=10
+Example: Bronx-Barbès guess= drug  gold= confidence=10
+Example: Brothers guess= drug  gold= confidence=10
+Example: Brottsvåg guess= drug  gold= confidence=10
+Example: Burnside guess= drug  gold= confidence=10
+Example: Buttman's Anal Divas guess= drug  gold= confidence=10
+Example: Buttwoman vs. Buttwoman guess= drug  gold= confidence=10
+Example: Buñuel en Hollywood guess= drug  gold= confidence=10
+Example: By Player guess= drug  gold= confidence=10
+Example: Bzz guess= drug  gold= confidence=10
+Example: Cabecita guess= drug  gold= confidence=10
+Example: Cabin Fever guess= drug  gold= confidence=10
+Example: Camera Obscura guess= drug  gold= confidence=10
+Example: Campos sagrados guess= drug  gold= confidence=10
+Example: Canada: A People's History guess= drug  gold= confidence=10
+Example: Cantamos contigo guess= drug  gold= confidence=10
+Example: Capitanes de abril guess= drug  gold= confidence=10
+Example: Caracas amor a muerte guess= drug  gold= confidence=10
+Example: Caribbean Undercover guess= drug  gold= confidence=10
+Example: Carnage Road guess= drug  gold= confidence=10
+Example: Cashier Wants to Go to the Seaside guess= drug  gold= confidence=10
+Example: Castaway 2000 guess= drug  gold= confidence=10
+Example: Catastrophe guess= drug  gold= confidence=10
+Example: Cathedral Rock guess= drug  gold= confidence=10
+Example: Cecilia guess= drug  gold= confidence=10
+Example: Chameleon 3: Dark Angel guess= drug  gold= confidence=10
+Example: Charge! guess= drug  gold= confidence=10
+Example: Chasing the Big Ones 3 guess= drug  gold= confidence=10
+Example: Cherry Hills guess= drug  gold= confidence=10
+Example: Chez moi guess= drug  gold= confidence=10
+Example: Chi chung sze loi liu guess= drug  gold= confidence=10
+Example: Chillin' with Jake Steed's Freaks Whoes & Flows 21 guess= drug  gold= confidence=10
+Example: Chuck guess= drug  gold= confidence=10
+Example: Cinderella guess= drug  gold= confidence=10
+Example: Citizen James guess= drug  gold= confidence=10
+Example: Ciudad de M guess= drug  gold= confidence=10
+Example: Cizinci v case guess= drug  gold= confidence=10
+Example: Class of Nuke 'Em High IV guess= drug  gold= confidence=10
+Example: Clerks: The Animated Series guess= drug  gold= confidence=10
+Example: Clothesline Patch guess= drug  gold= confidence=10
+Example: Cocozza's Way guess= drug  gold= confidence=10
+Example: Code Unknown: Incomplete Tales of Several Journeys guess= drug  gold= confidence=10
+Example: Conamara guess= drug  gold= confidence=10
+Example: Condenado à Liberdade guess= drug  gold= confidence=10
+Example: Confessions of a Head Hunter guess= drug  gold= confidence=10
+Example: Cool Women guess= drug  gold= confidence=10
+Example: Couch Taters guess= drug  gold= confidence=10
+Example: Could Be Worse! guess= drug  gold= confidence=10
+Example: Counting Days guess= drug  gold= confidence=10
+Example: Cremains guess= drug  gold= confidence=10
+Example: Criminal Instincts guess= drug  gold= confidence=10
+Example: Curiosity & the Cat guess= drug  gold= confidence=10
+Example: Cursed guess= drug  gold= confidence=10
+Example: Curtain Call guess= drug  gold= confidence=10
+Example: CyberCrime guess= drug  gold= confidence=10
+Example: César guess= drug  gold= confidence=10
+Example: D-dag - Instruktørene guess= drug  gold= confidence=10
+Example: D.C. guess= drug  gold= confidence=10
+Example: Da Hip Hop Witch guess= drug  gold= confidence=10
+Example: Dada Sahib guess= drug  gold= confidence=10
+Example: Dakhtaran-e Khorshid guess= drug  gold= confidence=10
+Example: Daleko od okna guess= drug  gold= confidence=10
+Example: Dalheim guess= drug  gold= confidence=10
+Example: Dalziel and Pascoe: Above the Law guess= drug  gold= confidence=10
+Example: Dalziel and Pascoe: Cunning Old Fox guess= drug  gold= confidence=10
+Example: Dancing at the Blue Iguana guess= drug  gold= confidence=10
+Example: Danny and Max guess= drug  gold= confidence=10
+Example: Daria in Is It Fall Yet? guess= drug  gold= confidence=10
+Example: Dark Knight guess= drug  gold= confidence=10
+Example: Das Herz eines Priesters guess= drug  gold= confidence=10
+Example: Das Rote Quadrat guess= drug  gold= confidence=10
+Example: Das Schlosshotel guess= drug  gold= confidence=10
+Example: Daughters of the Sun guess= drug  gold= confidence=10
+Example: Day After Day guess= drug  gold= confidence=10
+Example: Daybreak guess= drug  gold= confidence=10
+Example: Dayereh guess= drug  gold= confidence=10
+Example: De Geheime dienst guess= drug  gold= confidence=10
+Example: De Stilte... guess= drug  gold= confidence=10
+Example: De Ware Lodewijk - de ontknoping guess= drug  gold= confidence=10
+Example: De la bouche des enfants guess= drug  gold= confidence=10
+Example: Dead by Monday guess= drug  gold= confidence=10
+Example: Dear America: A Line in the Sand guess= drug  gold= confidence=10
+Example: Dear America: When Will This Cruel War Be Over? guess= drug  gold= confidence=10
+Example: Death of a Salesman guess= drug  gold= confidence=10
+Example: Death of a Saleswoman guess= drug  gold= confidence=10
+Example: Deep in the Woods guess= drug  gold= confidence=10
+Example: Delta Force: Land Warrior guess= drug  gold= confidence=10
+Example: Delusional guess= drug  gold= confidence=10
+Example: Demasiado amor guess= drug  gold= confidence=10
+Example: Denton Meets Ian Thorpe guess= drug  gold= confidence=10
+Example: Der Boxprinz guess= drug  gold= confidence=10
+Example: Der Kleine Lord - Retter in der Not guess= drug  gold= confidence=10
+Example: Der König tanzt guess= drug  gold= confidence=10
+Example: Der Millionär und die Stripperin guess= drug  gold= confidence=10
+Example: Det Nya landet guess= drug  gold= confidence=10
+Example: Detector guess= drug  gold= confidence=10
+Example: Deus Jr. guess= drug  gold= confidence=10
+Example: Dhai Akshar Prem Ke guess= drug  gold= confidence=10
+Example: Diary of Lust guess= drug  gold= confidence=10
+Example: Die Biester guess= drug  gold= confidence=10
+Example: Die Blutgräfin guess= drug  gold= confidence=10
+Example: Die Einsamkeit der Krokodile guess= drug  gold= confidence=10
+Example: Die Insel der Vergessenen guess= drug  gold= confidence=10
+Example: Die Nacht der Engel guess= drug  gold= confidence=10
+Example: Die Spur meiner Tochter guess= drug  gold= confidence=10
+Example: Die Zehn Gebote der Kreativität guess= drug  gold= confidence=10
+Example: Dinner for Two guess= drug  gold= confidence=10
+Example: Distinctii militare românesti guess= drug  gold= confidence=10
+Example: Divertimento guess= drug  gold= confidence=10
+Example: Divided We Fall guess= drug  gold= confidence=10
+Example: Dixie Chicks On the Fly guess= drug  gold= confidence=10
+Example: Diástole y sístole guess= drug  gold= confidence=10
+Example: Djomeh guess= drug  gold= confidence=10
+Example: Dog Food guess= drug  gold= confidence=10
+Example: Dogme # 16 - Bad Actors guess= drug  gold= confidence=10
+Example: Dogme 4 guess= drug  gold= confidence=10
+Example: Dogwatch guess= drug  gold= confidence=10
+Example: Dogwoman: Dead Dog Walking guess= drug  gold= confidence=10
+Example: Dolé guess= drug  gold= confidence=10
+Example: Don't Kill guess= drug  gold= confidence=10
+Example: Donald Duck Goin' Quackers guess= drug  gold= confidence=10
+Example: Donna Leon - Vendetta guess= drug  gold= confidence=10
+Example: Down From the Mountain guess= drug  gold= confidence=10
+Example: Down to You guess= drug  gold= confidence=10
+Example: Downpour guess= drug  gold= confidence=10
+Example: Dr Lucille - Un rêve pour la vie guess= drug  gold= confidence=10
+Example: Dr. T & the Women guess= drug  gold= confidence=10
+Example: Dragon Ball Z: The Movie - The World's Strongest guess= drug  gold= confidence=10
+Example: Dragonriders of Pern guess= drug  gold= confidence=10
+Example: Drainiac! guess= drug  gold= confidence=10
+Example: Drawn from Life guess= drug  gold= confidence=10
+Example: Driver 2 guess= drug  gold= confidence=10
+Example: Dubbel-åttan guess= drug  gold= confidence=10
+Example: Dum guess= drug  gold= confidence=10
+Example: Dá-me Luz guess= drug  gold= confidence=10
+Example: ECW: Anarchy Rulz guess= drug  gold= confidence=10
+Example: East of West guess= drug  gold= confidence=10
+Example: Eerie Valley Appointment guess= drug  gold= confidence=10
+Example: Ein Apartment zum Verlieben guess= drug  gold= confidence=10
+Example: Ein Lasterhaftes Pärchen guess= drug  gold= confidence=10
+Example: Ein Mensch wie Dieter - Golzower guess= drug  gold= confidence=10
+Example: Ein Palast und seine Republik guess= drug  gold= confidence=10
+Example: El Astillero guess= drug  gold= confidence=10
+Example: El Beso que me diste guess= drug  gold= confidence=10
+Example: El Irrigador guess= drug  gold= confidence=10
+Example: Elisas univers guess= drug  gold= confidence=10
+Example: Elixir, édition spéciale guess= drug  gold= confidence=10
+Example: Ellas, inocentes o culpables guess= drug  gold= confidence=10
+Example: Enas ki enas guess= drug  gold= confidence=10
+Example: Enfoirés en 2000 guess= drug  gold= confidence=10
+Example: Enter guess= drug  gold= confidence=10
+Example: Entertainment Life guess= drug  gold= confidence=10
+Example: Entscheidung seines Lebens guess= drug  gold= confidence=10
+Example: Epicentre guess= drug  gold= confidence=10
+Example: Epoch guess= drug  gold= confidence=10
+Example: Es geht nicht immer nur um Sex guess= drug  gold= confidence=10
+Example: Escaflowne guess= drug  gold= confidence=10
+Example: Eugenie Sandler P.I. guess= drug  gold= confidence=10
+Example: Euro Angels 25: Budapest Booty Fest guess= drug  gold= confidence=10
+Example: Eva & Adam - fyra födelsedagar och ett fiasko guess= drug  gold= confidence=10
+Example: Extremism Breaks My Balls guess= drug  gold= confidence=10
+Example: FDS guess= drug  gold= confidence=10
+Example: Faites comme si je n'étais pas là guess= drug  gold= confidence=10
+Example: Fallout Tactics: Brotherhood of Steel guess= drug  gold= confidence=10
+Example: Family Pack guess= drug  gold= confidence=10
+Example: Fatboy Slim and Macy Gray: Demons guess= drug  gold= confidence=10
+Example: Façade guess= drug  gold= confidence=10
+Example: Felix and Lola guess= drug  gold= confidence=10
+Example: Ferien in der Heimat guess= drug  gold= confidence=10
+Example: Fermé pour rénovations guess= drug  gold= confidence=10
+Example: Fetish Fanatics #14: Girls Who Were Porn's 1st Superstars guess= drug  gold= confidence=10
+Example: Feu: L'énergie guess= drug  gold= confidence=10
+Example: Fifteen Minutes guess= drug  gold= confidence=10
+Example: Finarû tirminaetôru guess= drug  gold= confidence=10
+Example: Fire-Eater guess= drug  gold= confidence=10
+Example: Fish guess= drug  gold= confidence=10
+Example: Fisimatenten guess= drug  gold= confidence=10
+Example: Fist Power guess= drug  gold= confidence=10
+Example: Flamenco Shoe guess= drug  gold= confidence=10
+Example: Flicker guess= drug  gold= confidence=10
+Example: Flight of the Reindeer guess= drug  gold= confidence=10
+Example: Forensic Files guess= drug  gold= confidence=10
+Example: Forever Yours guess= drug  gold= confidence=10
+Example: Forgive and Forget guess= drug  gold= confidence=10
+Example: Fort Boyard - Az Eröd guess= drug  gold= confidence=10
+Example: Forty Years On Coronation Street guess= drug  gold= confidence=10
+Example: Frank Herbert's Dune guess= drug  gold= confidence=10
+Example: Frankie Goes to Hollywood: Hard On guess= drug  gold= confidence=10
+Example: Freddie Mercury, the Untold Story guess= drug  gold= confidence=10
+Example: Free Fall guess= drug  gold= confidence=10
+Example: Friendly Persuasion: Iranian Cinema After the Revolution guess= drug  gold= confidence=10
+Example: From the Big Bang to Tuesday Morning guess= drug  gold= confidence=10
+Example: From the Top of the Key guess= drug  gold= confidence=10
+Example: Fuera de foco guess= drug  gold= confidence=10
+Example: G. guess= drug  gold= confidence=10
+Example: Gaja Gamini guess= drug  gold= confidence=10
+Example: Gajes del oficio guess= drug  gold= confidence=10
+Example: Gang Bang Angels 7 guess= drug  gold= confidence=10
+Example: Garimpeiros guess= drug  gold= confidence=10
+Example: Gauntlet Legends guess= drug  gold= confidence=10
+Example: Gegenseitiges Beobachten: Handy guess= drug  gold= confidence=10
+Example: George Benson: Absolutely Live guess= drug  gold= confidence=10
+Example: Georgian Grapes guess= drug  gold= confidence=10
+Example: Gerry Humphreys: The Loved One guess= drug  gold= confidence=10
+Example: Gespräch im Gebirg guess= drug  gold= confidence=10
+Example: Ghosthunter guess= drug  gold= confidence=10
+Example: Gilligan's Island: The E! True Hollywood Story guess= drug  gold= confidence=10
+Example: Ginostra guess= drug  gold= confidence=10
+Example: Giravolte guess= drug  gold= confidence=10
+Example: Girls! Girls! Girls! guess= drug  gold= confidence=10
+Example: Global Domination guess= drug  gold= confidence=10
+Example: Glow guess= drug  gold= confidence=10
+Example: God's Army guess= drug  gold= confidence=10
+Example: Godzilla Vs. Megaguirus: The G Annihilation Strategy guess= drug  gold= confidence=10
+Example: Gongdong gyeongbi guyeok jsa guess= drug  gold= confidence=10
+Example: Goodbye & Hello guess= drug  gold= confidence=10
+Example: Granturismo guess= drug  gold= confidence=10
+Example: Great Idea guess= drug  gold= confidence=10
+Example: Grind Session guess= drug  gold= confidence=10
+Example: Grosse Freiheit - Kleine Freiheit guess= drug  gold= confidence=10
+Example: Großstadtträume guess= drug  gold= confidence=10
+Example: Haboleshet Hokeret guess= drug  gold= confidence=10
+Example: Half-Life: Counter-Strike guess= drug  gold= confidence=10
+Example: Halfway There guess= drug  gold= confidence=10
+Example: Happy Birthday guess= drug  gold= confidence=10
+Example: Happy Man guess= drug  gold= confidence=10
+Example: Hard Boiled Egg guess= drug  gold= confidence=10
+Example: Harem of Madame Osmane guess= drug  gold= confidence=10
+Example: Harikomi guess= drug  gold= confidence=10
+Example: Hassel - Förgörarna guess= drug  gold= confidence=10
+Example: Head Cheerleader Dead Cheerleader guess= drug  gold= confidence=10
+Example: Heimatgeschichten - O Tannenbaum guess= drug  gold= confidence=10
+Example: Helicopter guess= drug  gold= confidence=10
+Example: Here on Earth guess= drug  gold= confidence=10
+Example: Highway Melody guess= drug  gold= confidence=10
+Example: Hij & Julia guess= drug  gold= confidence=10
+Example: Hindsight guess= drug  gold= confidence=10
+Example: Hitler Meets Christ guess= drug  gold= confidence=10
+Example: Home Sweet Home guess= drug  gold= confidence=10
+Example: Home VDO guess= drug  gold= confidence=10
+Example: Hopkins guess= drug  gold= confidence=10
+Example: Hot Latin Pussy Adventures 7 guess= drug  gold= confidence=10
+Example: Hot Legs guess= drug  gold= confidence=10
+Example: Hotaru guess= drug  gold= confidence=10
+Example: Hotellet guess= drug  gold= confidence=10
+Example: House of Luk guess= drug  gold= confidence=10
+Example: Humbert guess= drug  gold= confidence=10
+Example: Hånden på hjertet guess= drug  gold= confidence=10
+Example: Höllische Nachbarn - Chaos im Hotel guess= drug  gold= confidence=10
+Example: I Know I'll See Your Face Again guess= drug  gold= confidence=10
+Example: I Prefer the Sound of the Sea guess= drug  gold= confidence=10
+Example: I Spike guess= drug  gold= confidence=10
+Example: IIFA Awards guess= drug  gold= confidence=10
+Example: Ich kaufe mir einen Mann guess= drug  gold= confidence=10
+Example: Il Cielo cade guess= drug  gold= confidence=10
+Example: Il Fratello minore guess= drug  gold= confidence=10
+Example: In Appartment Buildings People Are Crazy About Music guess= drug  gold= confidence=10
+Example: In Flagrante guess= drug  gold= confidence=10
+Example: In goede aarde: Yesterday guess= drug  gold= confidence=10
+Example: In the Wings guess= drug  gold= confidence=10
+Example: Indifference guess= drug  gold= confidence=10
+Example: Indépendance Cha Cha guess= drug  gold= confidence=10
+Example: Initiations 2 guess= drug  gold= confidence=10
+Example: Innocents guess= drug  gold= confidence=10
+Example: Inséparables guess= drug  gold= confidence=10
+Example: Intimate Portrait: Janis Joplin guess= drug  gold= confidence=10
+Example: Intimate Portrait: Madeline Kahn guess= drug  gold= confidence=10
+Example: Inventario balcanico guess= drug  gold= confidence=10
+Example: Isaac Asimov's Nightfall guess= drug  gold= confidence=10
+Example: Jaaaaam guess= drug  gold= confidence=10
+Example: Jarrett & Labonte Stock Car Racing guess= drug  gold= confidence=10
+Example: Je werk of je leven: Hoe lang moet jij nog? guess= drug  gold= confidence=10
+Example: Jersey Guy guess= drug  gold= confidence=10
+Example: John Henry guess= drug  gold= confidence=10
+Example: John and Yoko's Year of Peace guess= drug  gold= confidence=10
+Example: Joining the Dots guess= drug  gold= confidence=10
+Example: Jojo la frite guess= drug  gold= confidence=10
+Example: Joyeux Noël, Rachid guess= drug  gold= confidence=10
+Example: Julien l'apprenti guess= drug  gold= confidence=10
+Example: Jungle guess= drug  gold= confidence=10
+Example: Junk n da Trunk guess= drug  gold= confidence=10
+Example: Just an Ordinary Day guess= drug  gold= confidence=10
+Example: Justice in Wonderland guess= drug  gold= confidence=10
+Example: Kahin Pyaar Na Ho Jaaye guess= drug  gold= confidence=10
+Example: Kaliber Deluxe guess= drug  gold= confidence=10
+Example: Kamen Rider Kuuga guess= drug  gold= confidence=10
+Example: Kids Say the Funniest Things guess= drug  gold= confidence=10
+Example: Kingdom of Poet O guess= drug  gold= confidence=10
+Example: Kippour guess= drug  gold= confidence=10
+Example: Kiri Maori guess= drug  gold= confidence=10
+Example: Kleistoi dromoi guess= drug  gold= confidence=10
+Example: Komédiások guess= drug  gold= confidence=10
+Example: Krajinka guess= drug  gold= confidence=10
+Example: Kunwara guess= drug  gold= confidence=10
+Example: Kurosufaiâ guess= drug  gold= confidence=10
+Example: Kurukshetra guess= drug  gold= confidence=10
+Example: L'Amour, l'argent, l'amour guess= drug  gold= confidence=10
+Example: L'Attrape-rêves guess= drug  gold= confidence=10
+Example: La Confusion des genres guess= drug  gold= confidence=10
+Example: La Fausse suivante guess= drug  gold= confidence=10
+Example: La Laïque guess= drug  gold= confidence=10
+Example: La Moderna poesia guess= drug  gold= confidence=10
+Example: La Pomme, la figue et l'amande guess= drug  gold= confidence=10
+Example: La Precisione del caso guess= drug  gold= confidence=10
+Example: La Proc guess= drug  gold= confidence=10
+Example: La Revancha guess= drug  gold= confidence=10
+Example: La Traviata à Paris guess= drug  gold= confidence=10
+Example: La Vache et le président guess= drug  gold= confidence=10
+Example: La Villa guess= drug  gold= confidence=10
+Example: La bloc oamenii mor dupa muzica guess= drug  gold= confidence=10
+Example: Lafanmi Selavi guess= drug  gold= confidence=10
+Example: Lao tou guess= drug  gold= confidence=10
+Example: Last Ball guess= drug  gold= confidence=10
+Example: Last Wedding guess= drug  gold= confidence=10
+Example: Latin Heat Inn Exile guess= drug  gold= confidence=10
+Example: Laughter in the Dark guess= drug  gold= confidence=10
+Example: Lawrence Melm guess= drug  gold= confidence=10
+Example: Le Cercle de Babel guess= drug  gold= confidence=10
+Example: Le Chapeau guess= drug  gold= confidence=10
+Example: Le Chien vert guess= drug  gold= confidence=10
+Example: Le Giraffe guess= drug  gold= confidence=10
+Example: Le Glandeur guess= drug  gold= confidence=10
+Example: Le Harem de Mme Osmane guess= drug  gold= confidence=10
+Example: Le Larbin guess= drug  gold= confidence=10
+Example: Le Pont du trieur guess= drug  gold= confidence=10
+Example: Le Secret guess= drug  gold= confidence=10
+Example: Le Vélo de Ghislain Lambert guess= drug  gold= confidence=10
+Example: Leg Up guess= drug  gold= confidence=10
+Example: Legacy of a Kidnapping: Lindbergh and the Triumph of the Tabloids guess= drug  gold= confidence=10
+Example: Les Autres filles guess= drug  gold= confidence=10
+Example: Les Belles histoires des Pays-d'en-Haut guess= drug  gold= confidence=10
+Example: Les Portes de la gloire guess= drug  gold= confidence=10
+Example: Les Soeurs Lumière guess= drug  gold= confidence=10
+Example: Les Yeux fermés guess= drug  gold= confidence=10
+Example: Lewd Conduct 9 guess= drug  gold= confidence=10
+Example: Leyendas de fuego guess= drug  gold= confidence=10
+Example: Leçons de ténèbres guess= drug  gold= confidence=10
+Example: Lian zhan chongsheng guess= drug  gold= confidence=10
+Example: LiebesLuder guess= drug  gold= confidence=10
+Example: Lies... In Love guess= drug  gold= confidence=10
+Example: Life Force guess= drug  gold= confidence=10
+Example: Life with Big Cats guess= drug  gold= confidence=10
+Example: Lights, Camera, War! guess= drug  gold= confidence=10
+Example: Ligne 208 guess= drug  gold= confidence=10
+Example: Lily and the Secret Planting guess= drug  gold= confidence=10
+Example: Lion of Oz guess= drug  gold= confidence=10
+Example: Live Free or Die guess= drug  gold= confidence=10
+Example: Lomalla guess= drug  gold= confidence=10
+Example: Love Inventory guess= drug  gold= confidence=10
+Example: Love at First Sight guess= drug  gold= confidence=10
+Example: Luciano's Face Up Ass Down guess= drug  gold= confidence=10
+Example: Lucky 13 guess= drug  gold= confidence=10
+Example: Luftpiraten - 113 Passagiere in Todesangst guess= drug  gold= confidence=10
+Example: Luna salvaje guess= drug  gold= confidence=10
+Example: Luz guess= drug  gold= confidence=10
+Example: Lázaro de Tormes guess= drug  gold= confidence=10
+Example: M. zkt. vr. guess= drug  gold= confidence=10
+Example: Mabrouk Again guess= drug  gold= confidence=10
+Example: Maestrale guess= drug  gold= confidence=10
+Example: Mamotte agetai guess= drug  gold= confidence=10
+Example: Marco guess= drug  gold= confidence=10
+Example: Margaret: The Last Real Princess guess= drug  gold= confidence=10
+Example: Marriage Acts guess= drug  gold= confidence=10
+Example: Marriage Prep guess= drug  gold= confidence=10
+Example: Marrying Out guess= drug  gold= confidence=10
+Example: Masked Rider Kuuga guess= drug  gold= confidence=10
+Example: Mayhem guess= drug  gold= confidence=10
+Example: Me Jane guess= drug  gold= confidence=10
+Example: Mega Man X5 guess= drug  gold= confidence=10
+Example: Mein Leben gehört mir guess= drug  gold= confidence=10
+Example: Men of Honor guess= drug  gold= confidence=10
+Example: Menunggu pelangi guess= drug  gold= confidence=10
+Example: Meseautó guess= drug  gold= confidence=10
+Example: Mexico City guess= drug  gold= confidence=10
+Example: Mi amigo guess= drug  gold= confidence=10
+Example: Milch und Honig aus Rotfront guess= drug  gold= confidence=10
+Example: Militia guess= drug  gold= confidence=10
+Example: Millevaches guess= drug  gold= confidence=10
+Example: Miss Rumphius guess= drug  gold= confidence=10
+Example: Missing Pieces guess= drug  gold= confidence=10
+Example: Mission Improbable guess= drug  gold= confidence=10
+Example: Mission: Impossible II guess= drug  gold= confidence=10
+Example: Misstoestanden guess= drug  gold= confidence=10
+Example: Mom's Got a Date with a Vampire guess= drug  gold= confidence=10
+Example: Monica guess= drug  gold= confidence=10
+Example: Moosh guess= drug  gold= confidence=10
+Example: Moral Court guess= drug  gold= confidence=10
+Example: Mord im Swingerclub guess= drug  gold= confidence=10
+Example: More Best Of Dirty Debutantes 13: Lovin' Spoonfuls guess= drug  gold= confidence=10
+Example: Most Promising Young Actress guess= drug  gold= confidence=10
+Example: Motorcycle guess= drug  gold= confidence=10
+Example: Mounted by the Gods guess= drug  gold= confidence=10
+Example: Mr. Hughes guess= drug  gold= confidence=10
+Example: Mr. Wong guess= drug  gold= confidence=10
+Example: Mudo mundo guess= drug  gold= confidence=10
+Example: My African Diary guess= drug  gold= confidence=10
+Example: My Generation guess= drug  gold= confidence=10
+Example: My Only Saving Grace guess= drug  gold= confidence=10
+Example: Mysterious Object at Noon guess= drug  gold= confidence=10
+Example: Necro Files 2 guess= drug  gold= confidence=10
+Example: Neil Young: Silver and Gold guess= drug  gold= confidence=10
+Example: Nessundorma guess= drug  gold= confidence=10
+Example: Neujahrskonzert der Wiener Philharmoniker 2000 guess= drug  gold= confidence=10
+Example: New World Order: Somewhere in Africa guess= drug  gold= confidence=10
+Example: Next Friday guess= drug  gold= confidence=10
+Example: Nightwalker: Midnight Detective guess= drug  gold= confidence=10
+Example: Nihon kuroshakai guess= drug  gold= confidence=10
+Example: Nikita Blues guess= drug  gold= confidence=10
+Example: Nine Queens guess= drug  gold= confidence=10
+Example: Ningen no kuzu guess= drug  gold= confidence=10
+Example: Nitwit Predelick guess= drug  gold= confidence=10
+Example: No Place to Go guess= drug  gold= confidence=10
+Example: Noites guess= drug  gold= confidence=10
+Example: North Pole # 19 guess= drug  gold= confidence=10
+Example: Nova: Lost on Everest guess= drug  gold= confidence=10
+Example: Now or Never guess= drug  gold= confidence=10
+Example: Numero Bruno guess= drug  gold= confidence=10
+Example: Nutty Professor II: The Klumps guess= drug  gold= confidence=10
+Example: Når mørket er forbi guess= drug  gold= confidence=10
+Example: O Delfim guess= drug  gold= confidence=10
+Example: O Fantasma guess= drug  gold= confidence=10
+Example: O Fato guess= drug  gold= confidence=10
+Example: O Sonho de Rose - 10 Anos Depois guess= drug  gold= confidence=10
+Example: Obra maestra guess= drug  gold= confidence=10
+Example: Occidente guess= drug  gold= confidence=10
+Example: Oliver i Olivera guess= drug  gold= confidence=10
+Example: Olé! guess= drug  gold= confidence=10
+Example: On Grandma guess= drug  gold= confidence=10
+Example: On the Road guess= drug  gold= confidence=10
+Example: Only Living Boy in NY guess= drug  gold= confidence=10
+Example: Open Return guess= drug  gold= confidence=10
+Example: Open Wide and Say Ahh! 6 guess= drug  gold= confidence=10
+Example: Opening the Tombs of the Golden Mummies: Live guess= drug  gold= confidence=10
+Example: Ordeals of Love on the Great Lakes guess= drug  gold= confidence=10
+Example: Orgelkonspiratörerna guess= drug  gold= confidence=10
+Example: Orientations: Chris Doyle - Stirred But Not Shaken guess= drug  gold= confidence=10
+Example: Os Acrobatas da Pedra Rolada guess= drug  gold= confidence=10
+Example: Os Três Zuretas guess= drug  gold= confidence=10
+Example: Osobennosti natsionalnoj okhoty v zimnij period guess= drug  gold= confidence=10
+Example: Other Girls guess= drug  gold= confidence=10
+Example: Our Journey guess= drug  gold= confidence=10
+Example: Our Song guess= drug  gold= confidence=10
+Example: Our Years guess= drug  gold= confidence=10
+Example: Ouvrières du monde guess= drug  gold= confidence=10
+Example: Pajama Party guess= drug  gold= confidence=10
+Example: Palavra e Utopia guess= drug  gold= confidence=10
+Example: Pandaemonium guess= drug  gold= confidence=10
+Example: Pansion za kucheta guess= drug  gold= confidence=10
+Example: Passage du milieu guess= drug  gold= confidence=10
+Example: Peepers guess= drug  gold= confidence=10
+Example: Peroxide Passion guess= drug  gold= confidence=10
+Example: Persian Series #6 guess= drug  gold= confidence=10
+Example: Persian Series #7 guess= drug  gold= confidence=10
+Example: Pesärikko guess= drug  gold= confidence=10
+Example: Petite chérie guess= drug  gold= confidence=10
+Example: Pettson och Findus - Kattonauten guess= drug  gold= confidence=10
+Example: Phones guess= drug  gold= confidence=10
+Example: Pieni pyhiinvaellus guess= drug  gold= confidence=10
+Example: Plain Love III guess= drug  gold= confidence=10
+Example: Plaits guess= drug  gold= confidence=10
+Example: Plastic Castles guess= drug  gold= confidence=10
+Example: Plugged In guess= drug  gold= confidence=10
+Example: Pokémon: The Movie 2000 guess= drug  gold= confidence=10
+Example: Pokémon: Vol. 18: Water Blast guess= drug  gold= confidence=10
+Example: Polizeiruf 110 - Bruderliebe guess= drug  gold= confidence=10
+Example: Polizeiruf 110 - La Paloma guess= drug  gold= confidence=10
+Example: Pop Beat Killers guess= drug  gold= confidence=10
+Example: Poppuguruupu Koroshiya guess= drug  gold= confidence=10
+Example: Posledná vecera guess= drug  gold= confidence=10
+Example: Postcards From Paradise Park guess= drug  gold= confidence=10
+Example: Prison Life guess= drug  gold= confidence=10
+Example: Prison of the Dead guess= drug  gold= confidence=10
+Example: Private Vignettes #1 guess= drug  gold= confidence=10
+Example: Pro Skater 2 guess= drug  gold= confidence=10
+Example: Proof of Life guess= drug  gold= confidence=10
+Example: Protagonisti, i diritti del '900 guess= drug  gold= confidence=10
+Example: Public Canings guess= drug  gold= confidence=10
+Example: Putting It Together guess= drug  gold= confidence=10
+Example: Páratlan guess= drug  gold= confidence=10
+Example: Quand j'étais petit guess= drug  gold= confidence=10
+Example: Queens for a Night guess= drug  gold= confidence=10
+Example: Quotation Marks guess= drug  gold= confidence=10
+Example: RLH guess= drug  gold= confidence=10
+Example: RPG Maker guess= drug  gold= confidence=10
+Example: Race for the Poles guess= drug  gold= confidence=10
+Example: Rancid Aluminium guess= drug  gold= confidence=10
+Example: Raped by an Angel 5: The Final Judgement guess= drug  gold= confidence=10
+Example: Rat guess= drug  gold= confidence=10
+Example: Rat uzivo guess= drug  gold= confidence=10
+Example: Real Rakeovers guess= drug  gold= confidence=10
+Example: Real Things guess= drug  gold= confidence=10
+Example: Rebus: The Hanging Garden guess= drug  gold= confidence=10
+Example: Rejseholdet guess= drug  gold= confidence=10
+Example: Ren jian si yue tian guess= drug  gold= confidence=10
+Example: Requiem for a Dream guess= drug  gold= confidence=10
+Example: Restless guess= drug  gold= confidence=10
+Example: Ridge Racer 5 guess= drug  gold= confidence=10
+Example: Ristningar guess= drug  gold= confidence=10
+Example: Rituals and Resolutions guess= drug  gold= confidence=10
+Example: Roadblocks guess= drug  gold= confidence=10
+Example: Robert's Rescue guess= drug  gold= confidence=10
+Example: Rocco: Animal Trainer 3 guess= drug  gold= confidence=10
+Example: Rock Story guess= drug  gold= confidence=10
+Example: Rock, Paper, Scissors guess= drug  gold= confidence=10
+Example: Rocks at Whiskey Trench guess= drug  gold= confidence=10
+Example: Rocky Horror 25: Anniversary Special guess= drug  gold= confidence=10
+Example: Romeo and Juliet guess= drug  gold= confidence=10
+Example: Rosamunde Pilcher - Die Rose von Kerrymore guess= drug  gold= confidence=10
+Example: Rosamunde Pilcher - Zeit der Erkenntnis guess= drug  gold= confidence=10
+Example: Rosamunde Pilcher - Zerrissene Herzen guess= drug  gold= confidence=10
+Example: Running From Shadows guess= drug  gold= confidence=10
+Example: Rupert Steckil: Genesis of a Filmmaker guess= drug  gold= confidence=10
+Example: Russia's Wonder Children guess= drug  gold= confidence=10
+Example: Russische Hochzeit guess= drug  gold= confidence=10
+Example: Russo guess= drug  gold= confidence=10
+Example: S Club 7: Artistic Differences guess= drug  gold= confidence=10
+Example: Sabor a ti guess= drug  gold= confidence=10
+Example: Sam the Man guess= drug  gold= confidence=10
+Example: San tau chi saidoi guess= drug  gold= confidence=10
+Example: Sandra et les siens guess= drug  gold= confidence=10
+Example: Santana: Supernatural Live guess= drug  gold= confidence=10
+Example: Satan's School for Girls guess= drug  gold= confidence=10
+Example: Savage Garden: Superstars and Cannonballs: Live and on Tour in Australia guess= drug  gold= confidence=10
+Example: Say You Love Satan guess= drug  gold= confidence=10
+Example: Sciography guess= drug  gold= confidence=10
+Example: Scrappers guess= drug  gold= confidence=10
+Example: Sehnsucht nach Jack guess= drug  gold= confidence=10
+Example: Sei forte, Maestro guess= drug  gold= confidence=10
+Example: Selvsvings Bånd på livet - livet på bånd guess= drug  gold= confidence=10
+Example: Seom guess= drug  gold= confidence=10
+Example: Serenades guess= drug  gold= confidence=10
+Example: Seule avec la guerre guess= drug  gold= confidence=10
+Example: Seuls, ensemble guess= drug  gold= confidence=10
+Example: Seven Hours to Burn guess= drug  gold= confidence=10
+Example: Seven Little Monsters guess= drug  gold= confidence=10
+Example: Sex and the Matrix guess= drug  gold= confidence=10
+Example: Shadow of the Blair Witch guess= drug  gold= confidence=10
+Example: Shadow of the Vampire guess= drug  gold= confidence=10
+Example: Sham guess= drug  gold= confidence=10
+Example: Shanghai Noon guess= drug  gold= confidence=10
+Example: Sharing the Secret guess= drug  gold= confidence=10
+Example: Sheep guess= drug  gold= confidence=10
+Example: Shikari guess= drug  gold= confidence=10
+Example: Si fa presto a dire amore... guess= drug  gold= confidence=10
+Example: Sideways guess= drug  gold= confidence=10
+Example: Sidney Poitier, One Bright Light guess= drug  gold= confidence=10
+Example: Siempre te amaré guess= drug  gold= confidence=10
+Example: Sin's Kitchen guess= drug  gold= confidence=10
+Example: Siostry guess= drug  gold= confidence=10
+Example: Skeletons in the Closet guess= drug  gold= confidence=10
+Example: Smoke & Mirrors: The Art and Science of Stunts guess= drug  gold= confidence=10
+Example: Snapped guess= drug  gold= confidence=10
+Example: Solange es Männer gibt guess= drug  gold= confidence=10
+Example: Song of the Sea Otter guess= drug  gold= confidence=10
+Example: Sonntags guess= drug  gold= confidence=10
+Example: South guess= drug  gold= confidence=10
+Example: South Tunnel guess= drug  gold= confidence=10
+Example: Spec Ops: Stealth Patrol guess= drug  gold= confidence=10
+Example: Spinning Gasing guess= drug  gold= confidence=10
+Example: Spoof! guess= drug  gold= confidence=10
+Example: Spoof! An Insider's Guide to Short Film Success guess= drug  gold= confidence=10
+Example: Spotlight on George Takei guess= drug  gold= confidence=10
+Example: Star Wars: Episode I - Jedi Power Battles guess= drug  gold= confidence=10
+Example: Starforce guess= drug  gold= confidence=10
+Example: Stars Sing The Beatles guess= drug  gold= confidence=10
+Example: Steps to the Stars guess= drug  gold= confidence=10
+Example: Sting: The Brand New Day Tour - Live from the Universal Amphitheatre guess= drug  gold= confidence=10
+Example: Stjärnfall guess= drug  gold= confidence=10
+Example: Stopar guess= drug  gold= confidence=10
+Example: Stranger with a Camera guess= drug  gold= confidence=10
+Example: Strangers to Themselves guess= drug  gold= confidence=10
+Example: Strawberry Flavour guess= drug  gold= confidence=10
+Example: Street Love guess= drug  gold= confidence=10
+Example: Suckerpunch guess= drug  gold= confidence=10
+Example: Supaas torabaraazu guess= drug  gold= confidence=10
+Example: Superstar Female Serial Killer guess= drug  gold= confidence=10
+Example: Survival of the Fattest guess= drug  gold= confidence=10
+Example: Surviving Abyssinia guess= drug  gold= confidence=10
+Example: Suzhou he guess= drug  gold= confidence=10
+Example: Sweet guess= drug  gold= confidence=10
+Example: Sync guess= drug  gold= confidence=10
+Example: T'en as? guess= drug  gold= confidence=10
+Example: T.R.A.X. guess= drug  gold= confidence=10
+Example: Taivas tiellä guess= drug  gold= confidence=10
+Example: Take It to the Limit guess= drug  gold= confidence=10
+Example: Take My Life... Please guess= drug  gold= confidence=10
+Example: Tales of an Island guess= drug  gold= confidence=10
+Example: Tatort - Chaos guess= drug  gold= confidence=10
+Example: Tatort - Mord am Fluss guess= drug  gold= confidence=10
+Example: Tatort - Tod vor Scharhörn guess= drug  gold= confidence=10
+Example: Team Spirit guess= drug  gold= confidence=10
+Example: Teens Get Real guess= drug  gold= confidence=10
+Example: Teletubbies: Nursery Rhymes guess= drug  gold= confidence=10
+Example: Tempting Fate guess= drug  gold= confidence=10
+Example: Tenshi no rakuen guess= drug  gold= confidence=10
+Example: Terra Sonâmbula guess= drug  gold= confidence=10
+Example: Terry Eichler: Beyond Duc My guess= drug  gold= confidence=10
+Example: That's Life guess= drug  gold= confidence=10
+Example: The American Astronaut guess= drug  gold= confidence=10
+Example: The Announcement guess= drug  gold= confidence=10
+Example: The Barber guess= drug  gold= confidence=10
+Example: The Black Meteor guess= drug  gold= confidence=10
+Example: The Bread, My Sweet guess= drug  gold= confidence=10
+Example: The Calling guess= drug  gold= confidence=10
+Example: The Cave guess= drug  gold= confidence=10
+Example: The Child guess= drug  gold= confidence=10
+Example: The Child and the Soldier guess= drug  gold= confidence=10
+Example: The Chippendales Murder guess= drug  gold= confidence=10
+Example: The Cindy Margolis Show guess= drug  gold= confidence=10
+Example: The City of Strangers guess= drug  gold= confidence=10
+Example: The Closer You Get guess= drug  gold= confidence=10
+Example: The Comedian guess= drug  gold= confidence=10
+Example: The Corrs: Unplugged guess= drug  gold= confidence=10
+Example: The Courage to Love guess= drug  gold= confidence=10
+Example: The Dark Years guess= drug  gold= confidence=10
+Example: The Dave Saint Show guess= drug  gold= confidence=10
+Example: The Distinct Smell of Red guess= drug  gold= confidence=10
+Example: The Djinn guess= drug  gold= confidence=10
+Example: The Etiquette Man guess= drug  gold= confidence=10
+Example: The Exhibited guess= drug  gold= confidence=10
+Example: The Film Biker guess= drug  gold= confidence=10
+Example: The Flunky guess= drug  gold= confidence=10
+Example: The Flux of Images guess= drug  gold= confidence=10
+Example: The Future of War guess= drug  gold= confidence=10
+Example: The Gang guess= drug  gold= confidence=10
+Example: The Gas Station guess= drug  gold= confidence=10
+Example: The Genocide Factor guess= drug  gold= confidence=10
+Example: The Gods of Times Square guess= drug  gold= confidence=10
+Example: The Heart's Root guess= drug  gold= confidence=10
+Example: The Hiking Viking guess= drug  gold= confidence=10
+Example: The Hollywood Sign guess= drug  gold= confidence=10
+Example: The Horror of... guess= drug  gold= confidence=10
+Example: The Innocent guess= drug  gold= confidence=10
+Example: The John Report with Bob guess= drug  gold= confidence=10
+Example: The Journey of Jared Price guess= drug  gold= confidence=10
+Example: The King's Guard guess= drug  gold= confidence=10
+Example: The Last Buckaroo guess= drug  gold= confidence=10
+Example: The Last Musketeer guess= drug  gold= confidence=10
+Example: The Leatherwoman guess= drug  gold= confidence=10
+Example: The Making of Lef guess= drug  gold= confidence=10
+Example: The Moving of Sophia Myles guess= drug  gold= confidence=10
+Example: The Mystery of Spoon River guess= drug  gold= confidence=10
+Example: The Mystery of the Romanovs guess= drug  gold= confidence=10
+Example: The Near Future guess= drug  gold= confidence=10
+Example: The Old Spaghetti Factory guess= drug  gold= confidence=10
+Example: The Opponent guess= drug  gold= confidence=10
+Example: The Opportunists guess= drug  gold= confidence=10
+Example: The Optimists guess= drug  gold= confidence=10
+Example: The Passage guess= drug  gold= confidence=10
+Example: The Pretenders guess= drug  gold= confidence=10
+Example: The Real Flying Tigers guess= drug  gold= confidence=10
+Example: The Runaway guess= drug  gold= confidence=10
+Example: The Secret guess= drug  gold= confidence=10
+Example: The Sopornos guess= drug  gold= confidence=10
+Example: The Strange Case of Señor Computer guess= drug  gold= confidence=10
+Example: The Substitute: Failure Is Not an Option guess= drug  gold= confidence=10
+Example: The Summer Intern guess= drug  gold= confidence=10
+Example: The Summer of the Kavalcutes guess= drug  gold= confidence=10
+Example: The Tao of Steve guess= drug  gold= confidence=10
+Example: The Tattoo guess= drug  gold= confidence=10
+Example: The Theory of Everything guess= drug  gold= confidence=10
+Example: The Van Boys guess= drug  gold= confidence=10
+Example: The Visit guess= drug  gold= confidence=10
+Example: The War Behind the Wire guess= drug  gold= confidence=10
+Example: The War Next Door guess= drug  gold= confidence=10
+Example: The Way of the Birds guess= drug  gold= confidence=10
+Example: The Weight of Water guess= drug  gold= confidence=10
+Example: The Wog Boy guess= drug  gold= confidence=10
+Example: There's Something About Jack 11 guess= drug  gold= confidence=10
+Example: They Will Laugh guess= drug  gold= confidence=10
+Example: Things You Can Tell Just by Looking at Her guess= drug  gold= confidence=10
+Example: This Is How the World Ends guess= drug  gold= confidence=10
+Example: Thomas the Falconer guess= drug  gold= confidence=10
+Example: Thomson of Arnhem Land guess= drug  gold= confidence=10
+Example: Tight-Ass Lowriders guess= drug  gold= confidence=10
+Example: Time Gentlemen, Please guess= drug  gold= confidence=10
+Example: Time of our Lives guess= drug  gold= confidence=10
+Example: Time to Live guess= drug  gold= confidence=10
+Example: Titkos szeretök guess= drug  gold= confidence=10
+Example: Tmavomoudrý svet guess= drug  gold= confidence=10
+Example: To the End of the Road guess= drug  gold= confidence=10
+Example: Together guess= drug  gold= confidence=10
+Example: Tokyo Raiders guess= drug  gold= confidence=10
+Example: Tom Clancy's Rainbow Six guess= drug  gold= confidence=10
+Example: Tom Sawyer guess= drug  gold= confidence=10
+Example: Top Tens guess= drug  gold= confidence=10
+Example: Torab al-ghoraba guess= drug  gold= confidence=10
+Example: Tout est calme guess= drug  gold= confidence=10
+Example: Transcension guess= drug  gold= confidence=10
+Example: Travel Daze guess= drug  gold= confidence=10
+Example: Traveling Miles: Cassandra Wilson guess= drug  gold= confidence=10
+Example: Tre anni guess= drug  gold= confidence=10
+Example: Trial by Fire guess= drug  gold= confidence=10
+Example: Tribute to Alfred Lepetit guess= drug  gold= confidence=10
+Example: Trixie guess= drug  gold= confidence=10
+Example: True Hollywood Stories: Billionaire Boys Club guess= drug  gold= confidence=10
+Example: Trzy szalone zera guess= drug  gold= confidence=10
+Example: Turbulence guess= drug  gold= confidence=10
+Example: Twice the Fun guess= drug  gold= confidence=10
+Example: Ultimate Fighting Championship guess= drug  gold= confidence=10
+Example: Um Dia na Vida guess= drug  gold= confidence=10
+Example: Un Anno in campagna guess= drug  gold= confidence=10
+Example: Un Colpo al cuore guess= drug  gold= confidence=10
+Example: Un enfant, un secret guess= drug  gold= confidence=10
+Example: Un possible amour guess= drug  gold= confidence=10
+Example: Unauthorized Brady Bunch: The Final Days guess= drug  gold= confidence=10
+Example: Une jeune fille à la fenêtre guess= drug  gold= confidence=10
+Example: Une mère en colère guess= drug  gold= confidence=10
+Example: Unreal Ads guess= drug  gold= confidence=10
+Example: Urmel 2: Faule Tricks auf hoher See guess= drug  gold= confidence=10
+Example: Uttara guess= drug  gold= confidence=10
+Example: VH-1 to One: The Corrs guess= drug  gold= confidence=10
+Example: VH1 Divas 2000: A Tribute to Diana Ross guess= drug  gold= confidence=10
+Example: Vamos Chile guess= drug  gold= confidence=10
+Example: Vampires of Sorority Row Part II guess= drug  gold= confidence=10
+Example: Vanishing Point guess= drug  gold= confidence=10
+Example: Vendetta guess= drug  gold= confidence=10
+Example: Vent de colère guess= drug  gold= confidence=10
+Example: Verboden te zuchten guess= drug  gold= confidence=10
+Example: Victor guess= drug  gold= confidence=10
+Example: Vies guess= drug  gold= confidence=10
+Example: Viimeiset mitalit guess= drug  gold= confidence=10
+Example: Viktor guess= drug  gold= confidence=10
+Example: Violence On Violence guess= drug  gold= confidence=10
+Example: Virtuoso guess= drug  gold= confidence=10
+Example: Vogelforscher guess= drug  gold= confidence=10
+Example: WWF No Mercy guess= drug  gold= confidence=10
+Example: Waking Mele guess= drug  gold= confidence=10
+Example: Wang ming zhi tao guess= drug  gold= confidence=10
+Example: Wanna See Me Pee? guess= drug  gold= confidence=10
+Example: Warpath guess= drug  gold= confidence=10
+Example: Washed Up guess= drug  gold= confidence=10
+Example: Welcome to New York guess= drug  gold= confidence=10
+Example: What About Me: The Rise of the Nihilist Spasm Band guess= drug  gold= confidence=10
+Example: What Makes a Family guess= drug  gold= confidence=10
+Example: Where the Money Is guess= drug  gold= confidence=10
+Example: White Lightning guess= drug  gold= confidence=10
+Example: Wilder Days guess= drug  gold= confidence=10
+Example: Wilder Kaiser - Das Duell guess= drug  gold= confidence=10
+Example: Window guess= drug  gold= confidence=10
+Example: Winds of Passion guess= drug  gold= confidence=10
+Example: With Closed Eyes guess= drug  gold= confidence=10
+Example: Wonder Boys guess= drug  gold= confidence=10
+Example: Wonderland ...It Ain't guess= drug  gold= confidence=10
+Example: Word of Honor guess= drug  gold= confidence=10
+Example: Xi yang jing guess= drug  gold= confidence=10
+Example: Xian's Finest guess= drug  gold= confidence=10
+Example: Y decirte alguna estupidez, por ejemplo, te quiero guess= drug  gold= confidence=10
+Example: Yes, Dear guess= drug  gold= confidence=10
+Example: Yi jian zhong qing guess= drug  gold= confidence=10
+Example: Yo soy así guess= drug  gold= confidence=10
+Example: Yocavil guess= drug  gold= confidence=10
+Example: You Made It guess= drug  gold= confidence=10
+Example: You'll Do guess= drug  gold= confidence=10
+Example: Yung wong jik chin guess= drug  gold= confidence=10
+Example: Zebralla guess= drug  gold= confidence=10
+Example: Zir-e poost-e shahr guess= drug  gold= confidence=10
+Example: Zwei vom Blitz getroffen guess= drug  gold= confidence=10
+Example: ¡Ja me maaten..! guess= drug  gold= confidence=10
+Example: À ma soeur! guess= drug  gold= confidence=10
+Example: Épouse-moi guess= drug  gold= confidence=10
+Example: ìÁÎÄÙÛ ÓÅÒÅÂÒÉÓÔÙÊ guess= drug  gold= confidence=10
+Example: AEGON N.V. guess= drug  gold= confidence=10
+Example: ALZA Corporation guess= drug  gold= confidence=10
+Example: AMPCO Pittsburgh Corporation guess= drug  gold= confidence=10
+Example: AON Corporation guess= drug  gold= confidence=10
+Example: Abbey National Plc. guess= drug  gold= confidence=10
+Example: Abercrombie & Fitch guess= drug  gold= confidence=10
+Example: Agnico-Eagle Mines Limited guess= drug  gold= confidence=10
+Example: Airgas On-line guess= drug  gold= confidence=10
+Example: Ak Steel Holding Corp guess= drug  gold= confidence=10
+Example: Alberto Culver Co. guess= drug  gold= confidence=10
+Example: Amcol International Corporation guess= drug  gold= confidence=10
+Example: American Finl Cap Tr I guess= drug  gold= confidence=10
+Example: American Home Prods Corp guess= drug  gold= confidence=10
+Example: American Municipal Term Trust Inc. guess= drug  gold= confidence=10
+Example: American Retirement Corp. guess= drug  gold= confidence=10
+Example: Archstone Cmntys Tr guess= drug  gold= confidence=10
+Example: Arden Realty Inc. guess= drug  gold= confidence=10
+Example: Asia Pacific Wire & Cable guess= drug  gold= confidence=10
+Example: Associated Estates Realty Corporation guess= drug  gold= confidence=10
+Example: Atwood Oceanics Inc. guess= drug  gold= confidence=10
+Example: BKF Capital Group, Inc. guess= drug  gold= confidence=10
+Example: BRADY CORP guess= drug  gold= confidence=10
+Example: BRT Realty Trust. guess= drug  gold= confidence=10
+Example: Bairnco Corporation guess= drug  gold= confidence=10
+Example: Bally Total Fitness Holding Corp. guess= drug  gold= confidence=10
+Example: Battle Mountain Gold Co. guess= drug  gold= confidence=10
+Example: Battle Mtn Gold Co guess= drug  gold= confidence=10
+Example: Bay View Capital I guess= drug  gold= confidence=10
+Example: Beckman Coulter Inc guess= drug  gold= confidence=10
+Example: Belz Richard guess= drug  gold= confidence=10
+Example: Berkshire Hathaway Inc guess= drug  gold= confidence=10
+Example: Best Buy Co. guess= drug  gold= confidence=10
+Example: Best Foods guess= drug  gold= confidence=10
+Example: Blount International Inc. guess= drug  gold= confidence=10
+Example: Blue Square-Israel Ltd guess= drug  gold= confidence=10
+Example: Blyth Industries Inc. guess= drug  gold= confidence=10
+Example: Bny Cap Ii guess= drug  gold= confidence=10
+Example: Boulder Total Return Fund Incorporated guess= drug  gold= confidence=10
+Example: Boyd Gaming Corp guess= drug  gold= confidence=10
+Example: Brandywine Realty Trust guess= drug  gold= confidence=10
+Example: Bristol Myers Squibb Co guess= drug  gold= confidence=10
+Example: British Energy Plc guess= drug  gold= confidence=10
+Example: British Steel Plc guess= drug  gold= confidence=10
+Example: Brush Wellman Inc guess= drug  gold= confidence=10
+Example: CB Richard Ellis Services Inc. guess= drug  gold= confidence=10
+Example: CNA Surety Corporation guess= drug  gold= confidence=10
+Example: CVS Corporation guess= drug  gold= confidence=10
+Example: Cabletron Systems Inc. guess= drug  gold= confidence=10
+Example: Cablevision Sys Corp guess= drug  gold= confidence=10
+Example: Canon, Inc. guess= drug  gold= confidence=10
+Example: Capital Re LLC guess= drug  gold= confidence=10
+Example: Capital Trust Inc. guess= drug  gold= confidence=10
+Example: Caterpillar Inc. guess= drug  gold= confidence=10
+Example: Cbl & Associates Properties Inc. guess= drug  gold= confidence=10
+Example: Centex Corporation guess= drug  gold= confidence=10
+Example: Ceridian Corporation guess= drug  gold= confidence=10
+Example: Chelsea Property Group, Inc. guess= drug  gold= confidence=10
+Example: Chris Craft Industries Inc. guess= drug  gold= confidence=10
+Example: Cigna Investment Securities, Inc. guess= drug  gold= confidence=10
+Example: Circuit City Stores Inc. guess= drug  gold= confidence=10
+Example: Coastalcast Corporation guess= drug  gold= confidence=10
+Example: Colonial Investment Grade Municipal Trust guess= drug  gold= confidence=10
+Example: Colonial Properties Trust guess= drug  gold= confidence=10
+Example: Columbus Southern Power Co. guess= drug  gold= confidence=10
+Example: Comed Financing guess= drug  gold= confidence=10
+Example: Comfort Systems USA Inc. guess= drug  gold= confidence=10
+Example: CompX International Inc. guess= drug  gold= confidence=10
+Example: Computer Task Group, Incorporated guess= drug  gold= confidence=10
+Example: Consolidated Edison Inc. guess= drug  gold= confidence=10
+Example: Cooper Cameron Corporation. guess= drug  gold= confidence=10
+Example: Copene-Petroquímica do Nordeste guess= drug  gold= confidence=10
+Example: Cornell Companies Inc. guess= drug  gold= confidence=10
+Example: Cornerstone Propane Partnership L.P. guess= drug  gold= confidence=10
+Example: Correctional Properties Trust. guess= drug  gold= confidence=10
+Example: Cox Communication Inc. guess= drug  gold= confidence=10
+Example: Crane Co. guess= drug  gold= confidence=10
+Example: CryoLife, Inc. guess= drug  gold= confidence=10
+Example: DTE Energy Co. guess= drug  gold= confidence=10
+Example: Dal Tile International Inc. guess= drug  gold= confidence=10
+Example: Dan River Inc. guess= drug  gold= confidence=10
+Example: Delaware Group Dividend & Income Fund, Inc. guess= drug  gold= confidence=10
+Example: Detroit Edison guess= drug  gold= confidence=10
+Example: Developers Diversified Realty Corporation. guess= drug  gold= confidence=10
+Example: Devry, Inc. guess= drug  gold= confidence=10
+Example: Dillards Cap Tr I guess= drug  gold= confidence=10
+Example: Distribución y Servicio (D&S) guess= drug  gold= confidence=10
+Example: Dollar Thrifty Automotive Group Inc. guess= drug  gold= confidence=10
+Example: Downey Financial Corporation. guess= drug  gold= confidence=10
+Example: Dril-Quip, Inc. guess= drug  gold= confidence=10
+Example: Dyerburg Corporation. guess= drug  gold= confidence=10
+Example: EIX Trust guess= drug  gold= confidence=10
+Example: Edison International. guess= drug  gold= confidence=10
+Example: Ek Chor China Motorcycle Co. guess= drug  gold= confidence=10
+Example: El Paso Energy Partners L P guess= drug  gold= confidence=10
+Example: Elsevier N V guess= drug  gold= confidence=10
+Example: Energen Corporation guess= drug  gold= confidence=10
+Example: Enesco Group Inc. guess= drug  gold= confidence=10
+Example: Engelhard Corporation guess= drug  gold= confidence=10
+Example: Enron Corporation guess= drug  gold= confidence=10
+Example: Entergy Gulf Sts Inc guess= drug  gold= confidence=10
+Example: Enterprises Products Partners L.P guess= drug  gold= confidence=10
+Example: Eog Resources Incorporated guess= drug  gold= confidence=10
+Example: Equitable Res Cap Tr I guess= drug  gold= confidence=10
+Example: Equities Office Properties Trust guess= drug  gold= confidence=10
+Example: Espirito Santo Finl Grp S A guess= drug  gold= confidence=10
+Example: Espirito Santo Overseas Limited guess= drug  gold= confidence=10
+Example: FDX Corporation. guess= drug  gold= confidence=10
+Example: FINL SEC ASSURN HLDGS LTD guess= drug  gold= confidence=10
+Example: FLEETBOSTON FINL CORP guess= drug  gold= confidence=10
+Example: Fannie Mae guess= drug  gold= confidence=10
+Example: Fansteel Inc. guess= drug  gold= confidence=10
+Example: Federal Realty Investment Trust. guess= drug  gold= confidence=10
+Example: Federal Rlty Invt Tr guess= drug  gold= confidence=10
+Example: Fedl Home Ln Mtg guess= drug  gold= confidence=10
+Example: First Data Corporation. guess= drug  gold= confidence=10
+Example: Fleetwood Enterprises Inc. guess= drug  gold= confidence=10
+Example: Fletcher Challenge Energy Division. guess= drug  gold= confidence=10
+Example: Fletcher challenge Limited (FFS.A) guess= drug  gold= confidence=10
+Example: Flowers Industries Inc. guess= drug  gold= confidence=10
+Example: Flowserve Corporation. guess= drug  gold= confidence=10
+Example: Fort James Corporation guess= drug  gold= confidence=10
+Example: Gabelli Equity Tr Inc guess= drug  gold= confidence=10
+Example: General Chemical Group Inc. guess= drug  gold= confidence=10
+Example: General Mtrs Cap Tr D guess= drug  gold= confidence=10
+Example: Giant Industries Inc. guess= drug  gold= confidence=10
+Example: Global Power Equipment Group Inc. guess= drug  gold= confidence=10
+Example: Goodrich Petroleum Corporation guess= drug  gold= confidence=10
+Example: Great Lakes Reit guess= drug  gold= confidence=10
+Example: Great Northern Iron Ore Properties. guess= drug  gold= confidence=10
+Example: Griffon Corporation guess= drug  gold= confidence=10
+Example: Groupe Danone guess= drug  gold= confidence=10
+Example: Grubb & Ellis Co. guess= drug  gold= confidence=10
+Example: Gucci Group N V guess= drug  gold= confidence=10
+Example: Gundle Slt Environmental guess= drug  gold= confidence=10
+Example: HALO Industries Inc. guess= drug  gold= confidence=10
+Example: Harris Corporation. guess= drug  gold= confidence=10
+Example: Harsco Corporation. guess= drug  gold= confidence=10
+Example: Head N.V. guess= drug  gold= confidence=10
+Example: Health Net, Inc. guess= drug  gold= confidence=10
+Example: Healthcare Rlty Tr guess= drug  gold= confidence=10
+Example: Highwoods Properties Inc guess= drug  gold= confidence=10
+Example: Home Depot Inc. guess= drug  gold= confidence=10
+Example: Homestake Mining Co. guess= drug  gold= confidence=10
+Example: Honeywell International, Inc. guess= drug  gold= confidence=10
+Example: Household Cap Tr I guess= drug  gold= confidence=10
+Example: IBP Inc. guess= drug  gold= confidence=10
+Example: Indiana Energy Inc. guess= drug  gold= confidence=10
+Example: Internacional de Cerámica S.A. guess= drug  gold= confidence=10
+Example: J.P. Morgan Chase & Co. guess= drug  gold= confidence=10
+Example: Jack in the Box Inc. guess= drug  gold= confidence=10
+Example: John Hancock Patriot Global Dividend Fund guess= drug  gold= confidence=10
+Example: Jostens Inc. guess= drug  gold= confidence=10
+Example: KLM Royal Dutch Airlines. guess= drug  gold= confidence=10
+Example: Kansas City Southern Industies Inc. guess= drug  gold= confidence=10
+Example: Katy Inds Inc guess= drug  gold= confidence=10
+Example: Kimberly Clark Corp guess= drug  gold= confidence=10
+Example: Kinder Morgan Energy Partners L.P guess= drug  gold= confidence=10
+Example: Krispy Kreme Doughnuts, Inc. guess= drug  gold= confidence=10
+Example: LEXMARK INTL INC guess= drug  gold= confidence=10
+Example: Lasmo Plc guess= drug  gold= confidence=10
+Example: Leggett & Platt Inc. guess= drug  gold= confidence=10
+Example: Leviathan Gas Pipeline Partners L.P guess= drug  gold= confidence=10
+Example: Lexington Corporate Properties Trust guess= drug  gold= confidence=10
+Example: Liberty Ppty Tr guess= drug  gold= confidence=10
+Example: Lincoln National Capital III guess= drug  gold= confidence=10
+Example: Ltc Pptys Inc guess= drug  gold= confidence=10
+Example: Lyondell Chemical Co. guess= drug  gold= confidence=10
+Example: Manpower Inc. guess= drug  gold= confidence=10
+Example: Markel Corporation. guess= drug  gold= confidence=10
+Example: Mascotech Inc. guess= drug  gold= confidence=10
+Example: Maxtor Corp. guess= drug  gold= confidence=10
+Example: May Department Stores Co. guess= drug  gold= confidence=10
+Example: Mdu Resources Group Inc. guess= drug  gold= confidence=10
+Example: Mead Corporation. guess= drug  gold= confidence=10
+Example: Medical Assurance Inc. guess= drug  gold= confidence=10
+Example: Merck & Co Inc. guess= drug  gold= confidence=10
+Example: Mercury General Corporation. guess= drug  gold= confidence=10
+Example: Meristar Hotels & Resorts, Inc. guess= drug  gold= confidence=10
+Example: Metals Usa, Inc. guess= drug  gold= confidence=10
+Example: Mettler Toledo International Inc. guess= drug  gold= confidence=10
+Example: Mid Atlanta Medical Services Inc. guess= drug  gold= confidence=10
+Example: Millipore Corporation. guess= drug  gold= confidence=10
+Example: Mills Corporation. guess= drug  gold= confidence=10
+Example: Minerals Technologies Inc. guess= drug  gold= confidence=10
+Example: Minnesota Municipal Term Trust Inc. guess= drug  gold= confidence=10
+Example: Mmi Products Inc. guess= drug  gold= confidence=10
+Example: Monaco Coach Corpration guess= drug  gold= confidence=10
+Example: Monongahela Pwr Co guess= drug  gold= confidence=10
+Example: Montana Pwr Cap I guess= drug  gold= confidence=10
+Example: Moore Corporation Ltd guess= drug  gold= confidence=10
+Example: Motivepower Industries Inc. guess= drug  gold= confidence=10
+Example: Mueller Inds Inc guess= drug  gold= confidence=10
+Example: Mutual Risk Mangement Ltd. guess= drug  gold= confidence=10
+Example: NBCI Auto Commn Exchange guess= drug  gold= confidence=10
+Example: National Australia Bank Ltd. guess= drug  gold= confidence=10
+Example: National Golf Properties Inc. guess= drug  gold= confidence=10
+Example: Nations Balanced Target Maturity Fund, Inc. guess= drug  gold= confidence=10
+Example: Newfield Exploration Co. guess= drug  gold= confidence=10
+Example: Nfo Worldwide Inc. guess= drug  gold= confidence=10
+Example: Nippon Telegraph and Telephone Corp. guess= drug  gold= confidence=10
+Example: Noble Affiliates Inc. guess= drug  gold= confidence=10
+Example: Northrop Grumman Corporation guess= drug  gold= confidence=10
+Example: Northwest Natural Gas Company guess= drug  gold= confidence=10
+Example: Novartis guess= drug  gold= confidence=10
+Example: Nuveen Arizona Premium Income Municipal Fund guess= drug  gold= confidence=10
+Example: Nuveen California Performance Municipal Fund guess= drug  gold= confidence=10
+Example: Nuveen California Select Quality Municipal Fund guess= drug  gold= confidence=10
+Example: Nuveen Insured New York Select Tax-Free Income Portfolio guess= drug  gold= confidence=10
+Example: Nuveen New Jersey Investment Quality Municipal Fund guess= drug  gold= confidence=10
+Example: Nuveen New York Performance Plus Municipal Fund guess= drug  gold= confidence=10
+Example: Nuveen New York Quality Income Municipal Fund guess= drug  gold= confidence=10
+Example: Nuveen New York Select Quality Municipal Fund guess= drug  gold= confidence=10
+Example: Omnicom Group Inc. guess= drug  gold= confidence=10
+Example: Oneok Inc. guess= drug  gold= confidence=10
+Example: Orbital Engine Corporation Ltd. guess= drug  gold= confidence=10
+Example: Outback Steakhouse, Inc. guess= drug  gold= confidence=10
+Example: Pacific Gulf Properties Inc. guess= drug  gold= confidence=10
+Example: Pacificorp Cap Ii guess= drug  gold= confidence=10
+Example: Packaging Corporation Of America guess= drug  gold= confidence=10
+Example: Pakistan Investment Fund, Inc. guess= drug  gold= confidence=10
+Example: Pan Pacific Retail Properties guess= drug  gold= confidence=10
+Example: Partnerre Ltd guess= drug  gold= confidence=10
+Example: PennEngineering guess= drug  gold= confidence=10
+Example: Pharmacia Corporation guess= drug  gold= confidence=10
+Example: Pimco Commercial Mortgage Securities Trust, Inc. guess= drug  gold= confidence=10
+Example: Pitney Bowes Inc guess= drug  gold= confidence=10
+Example: Plc Cap Tr I guess= drug  gold= confidence=10
+Example: Policy Management Systems Corporation. guess= drug  gold= confidence=10
+Example: Progressive Return Fund, Inc. guess= drug  gold= confidence=10
+Example: Prospect Street High Income Portfolio Inc. guess= drug  gold= confidence=10
+Example: Pure Resources, Inc. guess= drug  gold= confidence=10
+Example: Putnam Master Intermediate Income Trust guess= drug  gold= confidence=10
+Example: Putnam Municipal Opportunities Trust guess= drug  gold= confidence=10
+Example: Ralston Purina Co guess= drug  gold= confidence=10
+Example: Rayonier Inc. guess= drug  gold= confidence=10
+Example: Raytech Corporation. guess= drug  gold= confidence=10
+Example: Rdo Equipment Co. guess= drug  gold= confidence=10
+Example: Readers Digest Associates Inc. guess= drug  gold= confidence=10
+Example: Readers Digest Association Inc. guess= drug  gold= confidence=10
+Example: Rhodia guess= drug  gold= confidence=10
+Example: Rightchoice Managed Care Inc. guess= drug  gold= confidence=10
+Example: Rohm & Haas Co. guess= drug  gold= confidence=10
+Example: Rollins Truck Leasing Corporation. guess= drug  gold= confidence=10
+Example: Rouse Company guess= drug  gold= confidence=10
+Example: Ruby Tuesday Inc. guess= drug  gold= confidence=10
+Example: Ryland Group Inc. guess= drug  gold= confidence=10
+Example: S&P Global 100 Index guess= drug  gold= confidence=10
+Example: SAP AG guess= drug  gold= confidence=10
+Example: Safeway Inc. guess= drug  gold= confidence=10
+Example: Saks Inc. guess= drug  gold= confidence=10
+Example: Salomon Smith Barney Holding Inc. guess= drug  gold= confidence=10
+Example: San Paolo-Imi S P A guess= drug  gold= confidence=10
+Example: Santander Overseas Bank, Inc. guess= drug  gold= confidence=10
+Example: Scotts Co guess= drug  gold= confidence=10
+Example: Scudder Multi-Market Income Trust guess= drug  gold= confidence=10
+Example: Scudder Strategic Municipal Income Trust guess= drug  gold= confidence=10
+Example: Seacor Smit Inc. guess= drug  gold= confidence=10
+Example: Serono guess= drug  gold= confidence=10
+Example: Shaw Communications Inc. guess= drug  gold= confidence=10
+Example: Sierra Pac Pwr Cap I guess= drug  gold= confidence=10
+Example: Sizeler Property Investors Inc. guess= drug  gold= confidence=10
+Example: Smith Charles E Residential Realty Inc. guess= drug  gold= confidence=10
+Example: Socieda Quimica Min De Chile guess= drug  gold= confidence=10
+Example: South Jersey Industries Inc. guess= drug  gold= confidence=10
+Example: Specialty Laboratories, Inc. guess= drug  gold= confidence=10
+Example: Ssbh Cap I guess= drug  gold= confidence=10
+Example: St. Paul Companies guess= drug  gold= confidence=10
+Example: Standard Commercial Corporation. guess= drug  gold= confidence=10
+Example: Standex International Corporation. guess= drug  gold= confidence=10
+Example: Sulzer Medica guess= drug  gold= confidence=10
+Example: Sunbeam Corporation guess= drug  gold= confidence=10
+Example: Swisscom Ag guess= drug  gold= confidence=10
+Example: Talbots Inc. guess= drug  gold= confidence=10
+Example: Tefron Ltd. guess= drug  gold= confidence=10
+Example: Telebras HOLDRs guess= drug  gold= confidence=10
+Example: Telefónica del Perú SA guess= drug  gold= confidence=10
+Example: Telemig Celular Participações S.A. guess= drug  gold= confidence=10
+Example: Templeton Emerging Markets Appreciation Fund, Inc. guess= drug  gold= confidence=10
+Example: Tennessee Valley Auth guess= drug  gold= confidence=10
+Example: Terra Industries Inc. guess= drug  gold= confidence=10
+Example: Terra Nitrogen Co. LP guess= drug  gold= confidence=10
+Example: Tesoro Petroleum Corporation. guess= drug  gold= confidence=10
+Example: Texas Instruments Inc. guess= drug  gold= confidence=10
+Example: Texas Utils Co guess= drug  gold= confidence=10
+Example: The Blackrock 2001 Term Trust Inc. guess= drug  gold= confidence=10
+Example: The Blackrock Florida Insured Municipal 2008 Term Trust guess= drug  gold= confidence=10
+Example: The Blackrock Insured Municipal 2008 Term Trust Inc. guess= drug  gold= confidence=10
+Example: The Gabelli Equity Trust Inc. guess= drug  gold= confidence=10
+Example: The Germany Fund, Inc. guess= drug  gold= confidence=10
+Example: The Great-wesr Life Assurance Company guess= drug  gold= confidence=10
+Example: The Greater China Fund, Inc. guess= drug  gold= confidence=10
+Example: The Latin American Discovery Fund, Inc. guess= drug  gold= confidence=10
+Example: The Swiss Helvetia Fund, Inc. guess= drug  gold= confidence=10
+Example: Theragenics Corporation. guess= drug  gold= confidence=10
+Example: Thomas Industries Inc. guess= drug  gold= confidence=10
+Example: Time Warner Capital I guess= drug  gold= confidence=10
+Example: Transcontinental Realty Investors Inc. guess= drug  gold= confidence=10
+Example: Transportadora de Gas del Sur guess= drug  gold= confidence=10
+Example: Tremont Corporation guess= drug  gold= confidence=10
+Example: Trinity Industries Inc. guess= drug  gold= confidence=10
+Example: Triton Energy Ltd guess= drug  gold= confidence=10
+Example: Twin Disc Inc. guess= drug  gold= confidence=10
+Example: UAL Corporation. guess= drug  gold= confidence=10
+Example: UNOCAL CORP guess= drug  gold= confidence=10
+Example: US Airways Group Inc guess= drug  gold= confidence=10
+Example: Un Banco Más de Todos guess= drug  gold= confidence=10
+Example: UniSource Energy Corporation guess= drug  gold= confidence=10
+Example: Unigraphics Solutions Inc. guess= drug  gold= confidence=10
+Example: Unisys Corp guess= drug  gold= confidence=10
+Example: United Parcel Service, Inc. guess= drug  gold= confidence=10
+Example: United Park City Mines Co.. guess= drug  gold= confidence=10
+Example: United Technologies Corporation. guess= drug  gold= confidence=10
+Example: União de Bancos Brasileiros S.A (Unibanco) guess= drug  gold= confidence=10
+Example: UnumProvident Corporation guess= drug  gold= confidence=10
+Example: Urstadt Biddle Properties Inc. guess= drug  gold= confidence=10
+Example: Usx Marathon Lg-Tm guess= drug  gold= confidence=10
+Example: Van Kampen Bond Fund guess= drug  gold= confidence=10
+Example: Van Kampen High Income Trust II guess= drug  gold= confidence=10
+Example: Van Kampen Senior Income Trust guess= drug  gold= confidence=10
+Example: Venator Group Inc. guess= drug  gold= confidence=10
+Example: Verizon Communications guess= drug  gold= confidence=10
+Example: Viacom Inc. guess= drug  gold= confidence=10
+Example: Viasystems Group Inc guess= drug  gold= confidence=10
+Example: Vintage Petroleum Inc. guess= drug  gold= confidence=10
+Example: Vishay Intertechnology Inc. guess= drug  gold= confidence=10
+Example: Vlasic Foods International Inc. guess= drug  gold= confidence=10
+Example: Volt Information Sciences Inc. guess= drug  gold= confidence=10
+Example: Wackenhut Corporation. guess= drug  gold= confidence=10
+Example: Washington Real Estate Investment guess= drug  gold= confidence=10
+Example: Weddell & Reed Financial Inc guess= drug  gold= confidence=10
+Example: Wellpoint Health Networks Inc. guess= drug  gold= confidence=10
+Example: Wendys Fing I guess= drug  gold= confidence=10
+Example: Westport Resources Corporation guess= drug  gold= confidence=10
+Example: White Mount Ins Grp Ltd Berm guess= drug  gold= confidence=10
+Example: Whitehall Jewellers Inc guess= drug  gold= confidence=10
+Example: Williams Companies Inc guess= drug  gold= confidence=10
+Example: Winston Hotels, Inc. guess= drug  gold= confidence=10
+Example: Wmc Ltd guess= drug  gold= confidence=10
+Example: World Wrestling Federation Entertainment, Inc. guess= drug  gold= confidence=10
+Example: Wpsr Cap Tr I guess= drug  gold= confidence=10
+Example: Wynns International Inc. guess= drug  gold= confidence=10
+Example: YPF guess= drug  gold= confidence=10
+Example: iStar Financial Inc. guess= drug  gold= confidence=10
+Example: lehman Brothers Holdings Capital. guess= drug  gold= confidence=10
